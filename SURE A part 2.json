@@ -1,0 +1,1310 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Philosophy",
+    "code": "GES 212",
+    "session": "SURE A Part 2",
+    "topics": ["Greek Philosophy", "Sophists", "Socrates", "Philosophy", "Epistemology", "Metaphysics", "Ethics", "Society", "Law", "Rights", "Human Rights", "History", "Development", "Economics", "Sociology", "Plato", "Aristotle", "Pragmatism", "Logical Positivism", "Categories", "Empiricism", "Etymology", "Methodology", "Criticism", "Logic", "Laws of Thought", "Hylomorphism", "Fallacies", "Berkeley", "Natural Rights", "Political Philosophy", "Argumentation", "Propositional Logic", "Medieval Philosophy", "Faith and Reason", "Kant", "Theory of Forms", "Moral Philosophy", "Pre-Socratic Philosophy", "Philosophy of Rights", "Causality", "Reasoning", "Atomism", "American Philosophy", "Marxism", "Economic Rights", "Morality", "Mythology", "Milesians", "Inference", "Philosophy of Religion", "Cosmological Argument", "A Posteriori", "Democracy", "Deductive Arguments", "Fundamental Rights", "Heraclitus", "Change"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Greek Philosophy and Branches of Philosophy",
+    "Subheading": "Questions 1-3"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Greek Philosophy",
+      "Sophists",
+      "Socrates"
+    ],
+    "Question": {
+      "content": "With the emergence of the Sophists and Socrates, Greek Philosophy shifted from cosmology and ontology to the development of which two areas?",
+      "type": "OBJ",
+      "options": [
+        "Man and the world",
+        "Society and reality",
+        "Man and society",
+        "Philosophy and the world",
+        "Study of Being"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Man and society"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Shift in Greek Philosophy</h4>\n <p>The correct answer is <strong>Man and society</strong>. Early Greek philosophers (Pre-Socratics) focused on the cosmos (cosmology) and the nature of being (ontology). The Sophists and Socrates marked a turning point, bringing philosophy down to earth to focus on human affairs, ethics, politics, and the individual's place in society.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Figures</strong><br>\n <strong>Sophists:</strong> Traveling teachers who emphasized rhetoric and relativism, arguing that truth and morality are matters of social convention.<br>\n <strong>Socrates:</strong> Focused on ethical concepts like justice, virtue, and the good life, using the Socratic method to question assumptions.<br>\n <strong>Result:</strong> This created a new philosophical focus on <strong>anthropology (man)</strong> and <strong>political philosophy (society)</strong>.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Philosophy",
+      "Epistemology",
+      "Metaphysics"
+    ],
+    "Question": {
+      "content": "The question of 'why' and 'how' are the major concerns of which branches of philosophy?",
+      "type": "OBJ",
+      "options": [
+        "Logic and Epistemology",
+        "Aesthetics and Metaphysics",
+        "Ethics and Metaphysics",
+        "Epistemology and Logic",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding 'Why' and 'How' in Philosophy</h4>\n <p>The correct answer is <strong>None of the above</strong>. The question of <strong>'why'</strong> is the primary concern of <strong>Metaphysics</strong>, which seeks to understand the fundamental nature of reality, existence, and causes. The question of <strong>'how'</strong> is the central concern of <strong>Epistemology</strong>, which investigates the nature, source, and limits of knowledge.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Branch Breakdown</strong><br>\n <strong>Metaphysics (Why?):</strong> What is reality? Why do things exist? What is the ultimate cause?<br>\n <strong>Epistemology (How?):</strong> How do we know what we know? How is knowledge acquired?<br>\n <strong>Logic:</strong> Deals with the structure of correct reasoning (validity).<br>\n <strong>Ethics:</strong> Deals with moral principles (what is good/bad).<br>\n <strong>Aesthetics:</strong> Deals with beauty and art.\n </div>\n <p>Since 'why' (Metaphysics) and 'how' (Epistemology) are not paired together in any of the provided options, the correct choice is 'None of the above'.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Philosophy",
+      "Epistemology"
+    ],
+    "Question": {
+      "content": "Which philosopher is associated with the theory of innate ideas?",
+      "type": "OBJ",
+      "options": [
+        "René Descartes",
+        "Thales",
+        "St. Augustine",
+        "John Locke",
+        "Thomas Hobbes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "René Descartes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Theory of Innate Ideas</h4>\n <p>The correct answer is <strong>René Descartes</strong>. The theory of innate ideas argues that certain ideas, concepts, or knowledge are present in the mind at birth, not derived from experience. Descartes was a major proponent of this view.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Positions</strong><br>\n <strong>René Descartes (Rationalist):</strong> Believed in innate ideas like the concept of God, the self (cogito), and mathematical truths. He argued they are placed in us by God.<br>\n <strong>John Locke (Empiricist):</strong> The main opponent of innate ideas. He argued the mind is a <em>tabula rasa</em> (blank slate) at birth, and all knowledge comes from sensory experience.<br>\n <strong>St. Augustine:</strong> Believed in divine illumination, which has similarities but differs from Descartes' rationalist view.<br>\n <strong>Thales:</strong> A Pre-Socratic philosopher focused on cosmology.<br>\n <strong>Thomas Hobbes:</strong> An empiricist and materialist.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Philosophy of Morality and Rights",
+    "Subheading": "Questions 4-7"
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Philosophy",
+      "Ethics",
+      "Society"
+    ],
+    "Question": {
+      "content": "From the philosophical perspective, morality derives from humankind's ______.",
+      "type": "OBJ",
+      "options": [
+        "Religious nature",
+        "Political nature",
+        "Economic nature",
+        "Social nature",
+        "Sexual nature"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social nature"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Social Basis of Morality</h4>\n <p>The correct answer is <strong>Social nature</strong>. A dominant philosophical perspective, particularly from Aristotle onward, is that humans are inherently social beings (<em>zōon politikon</em>). Morality arises from the need to create rules and virtues to govern interactions, ensure cooperation, and allow society to function.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Philosophical Ideas</strong><br>\n <strong>Aristotle:</strong> Argued that ethics is the study of how to live well, which is only possible within a community (the polis).<br>\n <strong>Social Contract Theory (Hobbes, Locke, Rousseau):</strong> Morality and justice are derived from agreements made between individuals to escape the state of nature and live in a peaceful society.<br>\n <strong>Contrast:</strong> While religion, politics, and economics influence moral codes, the underlying philosophical foundation is often traced to the requirements of social coexistence.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Philosophy",
+      "Law",
+      "Rights"
+    ],
+    "Question": {
+      "content": "Conceptualization of knowledge rights in absolute terms is possible only within the sphere of ______.",
+      "type": "OBJ",
+      "options": [
+        "Politics",
+        "Democracy",
+        "Philosophy",
+        "Law",
+        "Socratic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Law"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Knowledge Rights and the Law</h4>\n <p>The correct answer is <strong>Law</strong>. While philosophy, politics, and democracy discuss rights in theoretical or aspirational terms, it is the <strong>law</strong> that provides the mechanism to conceptualize and enforce rights in absolute, unambiguous terms (e.g., 'you have the exclusive right to this intellectual property').</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Law is Key</strong><br>\n <strong>Specificity:</strong> Law can define rights precisely, including limitations, scope, and duration (e.g., patent law, copyright law).<br>\n <strong>Enforcement:</strong> Only law provides a system of courts and remedies to enforce these absolute claims against others.<br>\n <strong>Conceptualization:</strong> Legal frameworks create the concepts of 'intellectual property' and 'rights holders,' transforming abstract philosophical ideas into enforceable legal realities.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Human Rights",
+      "History"
+    ],
+    "Question": {
+      "content": "The contents of human rights was first articulated globally in the year ______.",
+      "type": "OBJ",
+      "options": [
+        "1947",
+        "1984",
+        "1960",
+        "1919",
+        "1948"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1948"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Universal Declaration of Human Rights</h4>\n <p>The correct answer is <strong>1948</strong>. The <strong>Universal Declaration of Human Rights (UDHR)</strong> was adopted by the United Nations General Assembly on December 10, 1948. It was the first global articulation of the fundamental human rights to be universally protected.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Historical Context</strong><br>\n <strong>1947:</strong> The drafting process was underway, but the final adoption was in 1948.<br>\n <strong>1919:</strong> The League of Nations was established after WWI, focusing on some rights but not a global, comprehensive declaration.<br>\n <strong>Significance:</strong> The UDHR set a common standard of achievement for all peoples and all nations, influencing constitutions and international treaties worldwide.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Development and Ancient Philosophy",
+    "Subheading": "Questions 7-8"
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Development",
+      "Economics",
+      "Sociology"
+    ],
+    "Question": {
+      "content": "A misconception of national development equates development with ______.",
+      "type": "OBJ",
+      "options": [
+        "Statistical growth",
+        "Spiritual growth",
+        "Structural material growth",
+        "Religious growth",
+        "Human development"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Structural material growth"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Misconceptions of Development</h4>\n <p>The correct answer is <strong>Structural material growth</strong>. A common misconception is to equate national development solely with physical infrastructure, industrialization, and economic growth (e.g., GDP). This view ignores the qualitative aspects of development.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Holistic vs. Narrow View</strong><br>\n <strong>Narrow View (Misconception):</strong> Development = more roads, factories, skyscrapers, and increased material output.<br>\n <strong>Holistic View (Actual Development):</strong> Development is a multi-dimensional process that includes improvements in human well-being, such as better health, education, political freedom, reduced inequality, and environmental sustainability (e.g., Human Development Index - HDI).<br>\n <strong>Result:</strong> Focusing only on 'structural material growth' can lead to growth without development, where the benefits of material progress are not shared, and social indicators do not improve.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Greek Philosophy",
+      "Sophists",
+      "Socrates",
+      "Plato",
+      "Aristotle"
+    ],
+    "Question": {
+      "content": "Which three famous individuals stood in complete opposition to the teaching of the Sophists in the Ancient period?",
+      "type": "OBJ",
+      "options": [
+        "Thales, Anaximander, Anaximenes",
+        "Plato, Pythagoras, Democritus",
+        "Sophists, Jews, Heraclitus",
+        "Socrates, Plato, Aristotle",
+        "Plato, Pythagoras, Democritus"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Socrates, Plato, Aristotle"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Opponents of the Sophists</h4>\n <p>The correct answer is <strong>Socrates, Plato, Aristotle</strong>. These three philosophers are considered the main critics and opponents of the Sophists, forming the foundation of classical Greek philosophy.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Points of Opposition</strong><br>\n <strong>Sophists:</strong> Were relativists (truth is relative), skeptics (no absolute truth), and rhetoricians (focused on persuasive speech for personal gain).<br>\n <strong>Socrates:</strong> Believed in absolute moral truths and used dialectic to discover universal definitions.<br>\n <strong>Plato:</strong> Opposed Sophist relativism by developing his Theory of Forms, arguing reality is in absolute, unchanging ideals (e.g., Justice itself).<br>\n <strong>Aristotle:</strong> Opposed Sophist skepticism by establishing formal logic and a systematic framework for knowledge based on categories and causality.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Contemporary Philosophy and Empiricism",
+    "Subheading": "Questions 9-12"
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Philosophy",
+      "Pragmatism",
+      "Logical Positivism"
+    ],
+    "Question": {
+      "content": "'Truth is what works' is the expression associated with the contemporary philosophical school of thought called Logical Positivism.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "True, false",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pragmatism vs. Logical Positivism</h4>\n <p>The statement is <strong>False</strong>. The expression 'truth is what works' is associated with <strong>Pragmatism</strong>, particularly the American philosophers <strong>William James</strong> and <strong>John Dewey</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>School Breakdown</strong><br>\n <strong>Pragmatism:</strong> Holds that the truth of a belief is determined by its practical consequences and usefulness. If an idea 'works' in experience, it is considered true.<br>\n <strong>Logical Positivism:</strong> A 20th-century school (Vienna Circle) that argued meaningful statements are either analytic (true by definition) or empirically verifiable. Its focus was on verification, not practicality.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Philosophy",
+      "Development",
+      "Ethics"
+    ],
+    "Question": {
+      "content": "Philosophy's contribution to the concept of national development is mainly its emphasis on ______",
+      "type": "OBJ",
+      "options": [
+        "Population growth",
+        "Human/moral development",
+        "Economic development",
+        "Political and economic development",
+        "Infrastructural development"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Human/moral development"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Philosophy's Unique Contribution</h4>\n <p>The correct answer is <strong>Human/moral development</strong>. While economics and political science focus on material growth and governance structures, philosophy contributes by asking foundational questions about what development truly means for human beings.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Philosophical Focus</strong><br>\n <strong>Value Questions:</strong> What is the good life? What virtues should citizens possess? What is justice?<br>\n <strong>Human Flourishing:</strong> Philosophy emphasizes that development is not just about GDP but about creating conditions for individuals to achieve <em>eudaimonia</em> (human flourishing).<br>\n <strong>Moral Foundation:</strong> It provides ethical frameworks to ensure development policies respect human dignity, rights, and promote the common good.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Aristotle",
+      "Metaphysics",
+      "Categories"
+    ],
+    "Question": {
+      "content": "______ are things in Aristotle's philosophy",
+      "type": "OBJ",
+      "options": [
+        "Positivists",
+        "Substance",
+        "Abstances",
+        "Predicament",
+        "Relations"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Substance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Aristotle's Categories</h4>\n <p>The correct answer is <strong>Substance</strong>. In Aristotle's philosophy, <strong>substance (ousia)</strong> is the primary category of being. It refers to the fundamental entity that exists independently and underlies all other properties.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Ten Categories</strong><br>\n Aristotle identified ten categories of being. <strong>Substance</strong> is the primary category (e.g., 'a man,' 'a horse'). The other nine are <strong>accidents</strong> that depend on substance for their existence:<br>\n 1. Quantity (e.g., 'two feet tall')<br>\n 2. Quality (e.g., 'white')<br>\n 3. Relation (e.g., 'double')<br>\n 4. Place (e.g., 'in the marketplace')<br>\n 5. Time (e.g., 'yesterday')<br>\n 6. Position (e.g., 'sitting')<br>\n 7. State/Habit (e.g., 'has shoes on')<br>\n 8. Action (e.g., 'cuts')<br>\n 9. Affection (e.g., 'is cut')<br>\n <strong>Substance</strong> is what exists in itself; the others exist <em>in</em> substance.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Philosophy",
+      "Empiricism",
+      "Epistemology"
+    ],
+    "Question": {
+      "content": "______ is often regarded as the founder of modern empiricism in Britain",
+      "type": "OBJ",
+      "options": [
+        "Fredrick Hegel",
+        "John Locke",
+        "David Hume",
+        "Renee Descartes",
+        "Francis Mininah"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "John Locke"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Founder of British Empiricism</h4>\n <p>The correct answer is <strong>John Locke</strong>. Locke is widely regarded as the father of modern empiricism in Britain. His major work, <em>An Essay Concerning Human Understanding</em> (1689), systematically argued against innate ideas and proposed that all knowledge comes from experience.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Empiricists</strong><br>\n <strong>John Locke (1632-1704):</strong> Established the core empiricist position: mind as <em>tabula rasa</em> (blank slate); knowledge from sensation and reflection.<br>\n <strong>George Berkeley:</strong> Advanced empiricism with subjective idealism (esse est percipi - to be is to be perceived).<br>\n <strong>David Hume:</strong> Took empiricism to its most radical conclusions, questioning causality and the self.<br>\n <strong>René Descartes:</strong> Was a rationalist, not an empiricist (focused on innate ideas and reason).<br>\n <strong>Fredrick Hegel:</strong> Was a German idealist, not associated with British empiricism.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Metaphysics and Epistemology",
+    "Subheading": "Questions 13-17"
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Metaphysics",
+      "Etymology"
+    ],
+    "Question": {
+      "content": "The term metaphysics is derived from two Greek words ______ and ______",
+      "type": "OBJ",
+      "options": [
+        "Meta and Metaphysical",
+        "Meta and Physika",
+        "Meta and Physical",
+        "Episteme and Logos",
+        "Mete and Logos"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Meta and Physika"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Etymology of Metaphysics</h4>\n <p>The correct answer is <strong>Meta and Physika</strong>. The term comes from the Greek words <strong>μετά (meta)</strong> meaning 'after' or 'beyond,' and <strong>φυσικά (physika)</strong> meaning 'physical things' or 'nature.'</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Historical Origin</strong><br>\n The term was not coined by Aristotle himself. It originated from the arrangement of Aristotle's works by his editor, <strong>Andronicus of Rhodes</strong> (1st century BCE). He placed the book discussing 'first philosophy' (the nature of being) <em>after</em> the book on physics. Thus, it was titled <em>ta meta ta physika</em> (the things after the physics). Over time, 'meta' came to mean 'beyond,' signifying that metaphysics deals with realities beyond the physical world.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Philosophy",
+      "Methodology",
+      "Criticism"
+    ],
+    "Question": {
+      "content": "Whose definition of philosophy as 'criticism of criticisms' makes philosophy methodologically relevant to every branch of human endeavor?",
+      "type": "OBJ",
+      "options": [
+        "Karl Marx",
+        "John Dewey",
+        "Francis Bacon",
+        "Isaac Newton",
+        "William James"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "John Dewey"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Dewey's Pragmatic Definition</h4>\n <p>The correct answer is <strong>John Dewey</strong>. The American pragmatist philosopher John Dewey defined philosophy as the 'criticism of criticisms.' This perspective emphasizes philosophy's role as a meta-discipline that examines, evaluates, and refines the methods and assumptions of all other fields of inquiry.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Philosophical Relevance</strong><br>\n <strong>Criticism of Criticisms:</strong> Philosophy doesn't just criticize its own ideas; it critically examines the foundational assumptions, methods, and values of science, politics, art, education, and other domains.<br>\n <strong>Methodological Relevance:</strong> By questioning the criteria for truth, evidence, and validity in every field, philosophy provides a universal methodological framework for improving human knowledge and practice.<br>\n <strong>Contrast:</strong> This contrasts with views of philosophy as purely abstract speculation. For Dewey, philosophy is a tool for solving human problems.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Logic",
+      "Epistemology",
+      "Laws of Thought"
+    ],
+    "Question": {
+      "content": "A statement is either true or false. Which law of knowledge does this statement express?",
+      "type": "OBJ",
+      "options": [
+        "Law of contradiction",
+        "Law of identity",
+        "Law of excluded middle",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Law of excluded middle"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Three Fundamental Laws of Logic</h4>\n <p>The correct answer is <strong>Law of excluded middle</strong>. This law states that for any proposition, either it is true or its negation is true. There is no middle ground.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Three Laws</strong><br>\n <strong>1. Law of Identity:</strong> A thing is what it is (A = A). A statement is true if it corresponds to reality.<br>\n <strong>2. Law of Non-Contradiction:</strong> A thing cannot both be and not be at the same time and in the same respect. A statement cannot be both true and false.<br>\n <strong>3. Law of Excluded Middle:</strong> A statement is either true or false; there is no third possibility (A ∨ ¬A).<br>\n <strong>In This Case:</strong> The statement 'a statement is either true or false' directly expresses the <strong>Law of Excluded Middle</strong>, which excludes any third truth-value.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Aristotle",
+      "Metaphysics",
+      "Hylomorphism"
+    ],
+    "Question": {
+      "content": "A substance for Aristotle is a combination of ______",
+      "type": "OBJ",
+      "options": [
+        "Potentiality, activity, form & matter",
+        "Matter, form, idea & actuality",
+        "Body, soul, potentiality & actuality",
+        "Substance, matter, potentiality & actuality",
+        "Substance, existence, form & matter"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Potentiality, activity, form & matter"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Aristotle's Hylomorphism</h4>\n <p>The correct answer is <strong>Potentiality, activity, form & matter</strong>. Aristotle's theory of substance combines these four concepts in his metaphysical framework known as <strong>hylomorphism</strong> (from <em>hylē</em> = matter, <em>morphē</em> = form).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Concepts</strong><br>\n <strong>Matter (Hylē):</strong> The material component; potentiality.<br>\n <strong>Form (Morphē):</strong> The essence or structure that makes a thing what it is; actuality.<br>\n <strong>Potentiality (Dynamis):</strong> The capacity to become something.<br>\n <strong>Actuality/Activity (Energeia/Entelecheia):</strong> The realization of potential.<br>\n <strong>Substance (Ousia):</strong> The unified composite of matter and form. A substance is not just matter nor just form, but the concrete reality that has the potential to actualize its purpose.\n </div>\n <p><strong>Example:</strong> A statue is substance = marble (matter, potentiality) + the form of a statue (form, actuality).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Logic",
+      "Fallacies"
+    ],
+    "Question": {
+      "content": "'The end of a thing is its perfection. Death is the end of life. Therefore, death is the perfection of life.' This is an example of which fallacy?",
+      "type": "OBJ",
+      "options": [
+        "Equivocation",
+        "Circular reason",
+        "Amphiboly",
+        "Cartesian fallacy",
+        "Begging the question"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Equivocation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fallacy of Equivocation</h4>\n <p>The correct answer is <strong>Equivocation</strong>. This fallacy occurs when a key term is used with two different meanings in an argument, making the reasoning invalid.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Analysis of the Argument</strong><br>\n <strong>Premise 1:</strong> 'The <em>end</em> of a thing is its perfection.' (Here, 'end' means <em>purpose, goal, telos</em>).<br>\n <strong>Premise 2:</strong> 'Death is the <em>end</em> of life.' (Here, 'end' means <em>termination, cessation</em>).<br>\n <strong>Conclusion:</strong> 'Therefore, death is the perfection of life.' (This wrongly equates the two meanings).<br>\n <strong>Why It's a Fallacy:</strong> The argument slides between the meaning of 'end' as purpose (teleological) and 'end' as final point. A term with multiple meanings cannot be used consistently to derive a valid conclusion.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Other Fallacies</strong><br>\n <strong>Begging the Question:</strong> Assuming the conclusion in the premises.<br>\n <strong>Amphiboly:</strong> Ambiguity due to grammatical structure.<br>\n <strong>Circular Reasoning:</strong> The argument circles back to its starting point without progress.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Empiricism, Rights, and Logic",
+    "Subheading": "Questions 18-22"
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Philosophy",
+      "Empiricism",
+      "Berkeley"
+    ],
+    "Question": {
+      "content": "The English equivalent of 'Esse est percipi' is ______ while ______ is the philosopher associated with it.",
+      "type": "OBJ",
+      "options": [
+        "'I think, therefore I am' and George Berkeley",
+        "'Blank slate' and David Hume",
+        "'To be is to be perceived' and George Berkeley",
+        "'I believe in order that I may understand' and St. Augustine",
+        "Rationalist and Rene Descartes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "'To be is to be perceived' and George Berkeley"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Berkeley's Subjective Idealism</h4>\n <p>The correct answer is <strong>'To be is to be perceived' and George Berkeley</strong>. The Latin phrase <em>Esse est percipi</em> is the central principle of Berkeley's philosophical system.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Meaning and Significance</strong><br>\n <strong>Translation:</strong> <em>Esse est percipi</em> translates directly to 'To be is to be perceived.'<br>\n <strong>Philosophical Position:</strong> George Berkeley (1685-1753), an Irish empiricist, argued that material objects have no independent existence. Their existence consists entirely in being perceived by a mind. <em>Esse est percipi aut percipere</em> (to be is to be perceived or to perceive).<br>\n <strong>Key Point:</strong> For Berkeley, what we call 'physical objects' are nothing but collections of ideas or sensations. They exist only insofar as they are perceived by a conscious mind—ultimately, by God, who perceives everything continuously.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Rights",
+      "Natural Rights",
+      "Political Philosophy"
+    ],
+    "Question": {
+      "content": "The following attributes except ______ distinguishes natural rights from all other rights.",
+      "type": "OBJ",
+      "options": [
+        "Inviolability",
+        "Immutability",
+        "Legality",
+        "Inalienability",
+        "Morality"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Legality"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Characteristics of Natural Rights</h4>\n <p>The correct answer is <strong>Legality</strong>. This attribute does not distinguish natural rights; rather, it distinguishes <strong>legal/positive rights</strong>. Natural rights are pre-legal and derive from human nature or reason.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Attributes of Natural Rights</strong><br>\n <strong>Inviolability:</strong> Natural rights are sacred and cannot be justly violated by any authority.<br>\n <strong>Immutability:</strong> They are unchanging and not subject to alteration by human laws or customs.<br>\n <strong>Inalienability:</strong> They cannot be transferred, surrendered, or taken away (e.g., right to life, liberty).<br>\n <strong>Morality:</strong> They are grounded in moral principles of justice and human dignity, not mere convention.<br>\n <strong>Legality (EXCEPTION):</strong> Legal rights are created, modified, and revoked by governments. Natural rights exist independently of legal recognition. While laws may protect natural rights, legality is not their source or distinguishing feature.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Philosophy",
+      "Human Rights",
+      "Ethics"
+    ],
+    "Question": {
+      "content": "The role of philosophy in Human Rights discourse is basically ______",
+      "type": "OBJ",
+      "options": [
+        "To punish those that abuses them",
+        "To justify through reason the desirability of them",
+        "To study the abuse of it",
+        "To console those who suffer the abuse of them",
+        "To compensate those who respect their"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To justify through reason the desirability of them"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Philosophy's Distinctive Role</h4>\n <p>The correct answer is <strong>To justify through reason the desirability of them</strong>. Philosophy contributes to human rights discourse by providing rational foundations, justifications, and critical analysis.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Roles of Different Disciplines</strong><br>\n <strong>Philosophy (Justification):</strong> Asks foundational questions: Why do humans have rights? On what basis are they universal? What is human dignity? Philosophy provides the rational arguments (e.g., Kantian dignity, natural law, social contract) that justify human rights as morally desirable and necessary.<br>\n <strong>Law (Punishment, Compensation):</strong> Creates legal frameworks, enforcement mechanisms, and remedies for violations.<br>\n <strong>Sociology/Empirical Study (Study of Abuse):</strong> Documents and analyzes patterns of rights violations.<br>\n <strong>Psychology/Pastoral Care (Consolation):</strong> Provides emotional and psychological support to victims.<br>\n <strong>Philosophy's Unique Role:</strong> To ask 'why' and provide reasoned justification for why human rights should be respected universally.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Logic",
+      "Argumentation"
+    ],
+    "Question": {
+      "content": "A situation in which premises are affirmed by the conclusion is negated is called ______",
+      "type": "OBJ",
+      "options": [
+        "An argument",
+        "An inference",
+        "A universality",
+        "A dilemma",
+        "A counter example"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A counter example"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Counterexamples</h4>\n <p>The correct answer is <strong>A counter example</strong>. A counterexample is a specific case that demonstrates the invalidity of an argument by showing that the premises can be true while the conclusion is false.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n <strong>Argument Form:</strong> When we say 'premises are affirmed by the conclusion is negated,' we mean: we accept the premises as true but reject (negate) the conclusion.<br>\n <strong>Purpose:</strong> If we can find a situation where this occurs—the premises hold but the conclusion does not—then the argument is shown to be invalid.<br>\n <strong>Example:</strong><br>\n Argument: All birds can fly. Penguins are birds. Therefore, penguins can fly.<br>\n Counterexample: The premises are true (all birds can fly? Actually false, but assume true for argument), but the conclusion 'penguins can fly' is false. This counterexample reveals the argument's flaw.\n </div>\n <p>A <strong>counterexample</strong> is a powerful tool in logic for testing and refuting invalid arguments.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Logic",
+      "Propositional Logic"
+    ],
+    "Question": {
+      "content": "A proposition can be true or invalid.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "True and false",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Truth vs. Validity</h4>\n <p>The statement is <strong>False</strong>. This statement confuses two distinct logical concepts: truth (which applies to propositions) and validity (which applies to arguments).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Distinction</strong><br>\n <strong>Proposition:</strong> A declarative statement that can be evaluated as either <strong>true or false</strong> based on its correspondence with reality (e.g., 'The sky is blue').<br>\n <strong>Validity:</strong> A property of <strong>arguments</strong>, not propositions. An argument is valid if the conclusion follows logically from the premises. Validity concerns the structure of reasoning, not the factual correctness of individual statements.<br>\n <strong>Correct Usage:</strong> 'A proposition can be true or false.' 'An argument can be valid or invalid.' Mixing these terms (calling a proposition 'invalid') is a category error in logic.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Medieval Philosophy and Metaphysics",
+    "Subheading": "Questions 23-25"
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Medieval Philosophy",
+      "Faith and Reason"
+    ],
+    "Question": {
+      "content": "The defining characteristic of medieval philosophy is its ______",
+      "type": "OBJ",
+      "options": [
+        "Scientific method over faith",
+        "Understanding God",
+        "A Good understanding of the cosmos",
+        "Love of Humanity",
+        "Rational Method of inquiry"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Understanding God"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Medieval Philosophy's Central Focus</h4>\n <p>The correct answer is <strong>Understanding God</strong>. Medieval philosophy (roughly 5th-15th centuries) is characterized by the integration of philosophical reasoning with theological concerns.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Defining Features</strong><br>\n <strong>Central Concern:</strong> The primary aim was to understand God, faith, revelation, and the relationship between reason and religion. Philosophy was often described as <em>ancilla theologiae</em> (handmaiden of theology).<br>\n <strong>Key Thinkers:</strong> St. Augustine, Boethius, St. Anselm, Thomas Aquinas, Duns Scotus, William of Ockham.<br>\n <strong>Major Questions:</strong> Does God exist? What is God's nature? How can faith and reason coexist? What is the relationship between divine omnipotence and human free will?<br>\n <strong>Contrast:</strong> Unlike ancient Greek philosophy (focused on cosmos/nature) or modern philosophy (focused on epistemology and human subjectivity), medieval philosophy is fundamentally oriented toward understanding the divine.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Logic",
+      "Epistemology",
+      "Kant"
+    ],
+    "Question": {
+      "content": "A proposition in which the meaning of the predicate is not contained in the subject is called ______",
+      "type": "OBJ",
+      "options": [
+        "Synthetic",
+        "Analytic",
+        "A posteriori",
+        "A priori",
+        "Syndicatev"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Synthetic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Kant's Analytic-Synthetic Distinction</h4>\n <p>The correct answer is <strong>Synthetic</strong>. This classification comes from Immanuel Kant's distinction between analytic and synthetic propositions.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Distinction</strong><br>\n <strong>Analytic Proposition:</strong> The predicate is contained within the subject. Truth is determined by analyzing the meaning of the subject. These are true by definition. Example: 'All bachelors are unmarried.' The predicate 'unmarried' is contained in the concept 'bachelor.'<br>\n <strong>Synthetic Proposition:</strong> The predicate adds new information not contained in the subject. Truth requires empirical verification or external justification. Example: 'The bachelor is tall.' The predicate 'tall' is not contained in the concept 'bachelor.'<br>\n <strong>Note:</strong> The options also include 'a priori' (known independently of experience) and 'a posteriori' (known through experience). Analytic propositions are typically a priori; synthetic propositions can be either a priori (e.g., mathematics for Kant) or a posteriori (empirical facts).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Plato",
+      "Metaphysics",
+      "Theory of Forms"
+    ],
+    "Question": {
+      "content": "Plato located reality in the world of ______",
+      "type": "OBJ",
+      "options": [
+        "Matter",
+        "Universals",
+        "Particular",
+        "Material",
+        "Heaven"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Universals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Plato's Theory of Forms</h4>\n <p>The correct answer is <strong>Universals</strong>. In Plato's philosophy, true reality exists in the realm of <strong>Forms (Ideas)</strong>, which are universal, eternal, unchanging essences.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Plato's Two Realms</strong><br>\n <strong>World of Forms (Universals):</strong> The realm of true reality. Contains perfect, eternal, unchanging concepts like Justice itself, Beauty itself, Goodness itself, Triangle itself. These are <strong>universals</strong>—they apply to many particular instances. This world is accessible only through reason, not the senses.<br>\n <strong>World of Particulars (Sensible World):</strong> The physical world we perceive with our senses. Contains particular, changing, imperfect copies or shadows of the Forms. This world is mere appearance, not true reality.<br>\n <strong>The Allegory of the Cave:</strong> Plato illustrates this through prisoners who mistake shadows on a wall (particulars) for reality until one escapes to see the sun (the Form of the Good). True reality is the universal Forms, not material particulars.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Empiricism, Ethics, and Metaphysics",
+    "Subheading": "Questions 26-30"
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Philosophy",
+      "Empiricism",
+      "Epistemology"
+    ],
+    "Question": {
+      "content": "Empiricism as a school of thought in the modern period is inconsistent with ______",
+      "type": "OBJ",
+      "options": [
+        "Sense experience",
+        "Innate ideas",
+        "Realism",
+        "Materialism",
+        "Idealism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Innate ideas"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Empiricism vs. Innate Ideas</h4>\n <p>The correct answer is <strong>Innate ideas</strong>. Empiricism is fundamentally opposed to the concept of innate ideas—the notion that certain knowledge or concepts are present in the mind from birth.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Core Principles</strong><br>\n <strong>Empiricism:</strong> Holds that all knowledge derives from sensory experience. The mind at birth is a <em>tabula rasa</em> (blank slate). Knowledge comes through sensation (external experience) and reflection (internal mental operations on sensory data).<br>\n <strong>Innate Ideas (Rationalism):</strong> The opposing view, held by philosophers like Plato and Descartes, that certain ideas (e.g., God, mathematical truths, moral principles) are inborn and not derived from experience.<br>\n <strong>Inconsistency:</strong> Accepting empiricism requires rejecting innate ideas. John Locke's <em>An Essay Concerning Human Understanding</em> was a systematic refutation of the doctrine of innate ideas.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Ethics",
+      "Moral Philosophy"
+    ],
+    "Question": {
+      "content": "Ethical principles differ from ordinary physical laws in that they are ______",
+      "type": "OBJ",
+      "options": [
+        "Laws of nature",
+        "Laws of conscience",
+        "Man-made laws",
+        "Divine laws",
+        "Societal laws"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Laws of conscience"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ethical vs. Physical Laws</h4>\n <p>The correct answer is <strong>Laws of conscience</strong>. Ethical principles are normative—they prescribe how we <em>ought</em> to behave—whereas physical laws are descriptive—they describe how the world <em>does</em> behave.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Distinction</strong><br>\n <strong>Physical Laws (Laws of Nature):</strong> Descriptive, universal, and inviolable. They describe regularities in nature (e.g., gravity). They cannot be broken; they simply state what always happens.<br>\n <strong>Ethical Principles (Laws of Conscience):</strong> Prescriptive, internal, and violable. They appeal to our inner sense of right and wrong—our conscience. They tell us what we <em>ought</em> to do, but we have the freedom to disobey them.<br>\n <strong>Immanuel Kant:</strong> Distinguished between hypothetical imperatives (if-then rules) and the categorical imperative—the moral law that we give to ourselves through reason, which is experienced as the voice of conscience.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Philosophy",
+      "Empiricism"
+    ],
+    "Question": {
+      "content": "Another name for empiricism is ______",
+      "type": "OBJ",
+      "options": [
+        "Logic",
+        "Axiology",
+        "Axiom",
+        "Axioms",
+        "Thoughts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Axiom"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding 'Axiom'</h4>\n <p>The correct answer is <strong>Axiom</strong>. However, it is important to clarify that 'axiom' is not a direct synonym for empiricism. This question likely tests the etymology and connection: empiricism emphasizes knowledge grounded in observable, self-evident starting points.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Connection Explained</strong><br>\n <strong>Axiom:</strong> A statement taken to be self-evidently true, serving as a foundation for further reasoning. In empirical traditions, basic sensory observations serve as axioms from which further knowledge is built.<br>\n <strong>Empiricism:</strong> The theory that all knowledge originates in sense experience. In this view, basic sense-data function as the axioms of knowledge—the foundational starting points.<br>\n <strong>Note:</strong> 'Axiology' refers to the study of value. 'Logic' is the study of reasoning. Neither is another name for empiricism, but the term 'axiom' captures the foundationalist aspect of empirical knowledge.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Aristotle",
+      "Metaphysics",
+      "Pre-Socratic Philosophy"
+    ],
+    "Question": {
+      "content": "According to Aristotle, metaphysics before Socrates was erroneous because it conceived reality in terms of ______",
+      "type": "OBJ",
+      "options": [
+        "Gods and goddesses",
+        "Material principles",
+        "Substances",
+        "The one",
+        "Universals"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Material principles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Aristotle's Critique of Pre-Socratics</h4>\n <p>The correct answer is <strong>Material principles</strong>. Aristotle criticized Pre-Socratic philosophers for what he saw as a reductionist approach to reality—explaining everything solely in terms of matter (material cause) while ignoring form, purpose, and other causes.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Aristotle's Four Causes</strong><br>\n <strong>Material Cause:</strong> What something is made of.<br>\n <strong>Formal Cause:</strong> The essence or structure of a thing.<br>\n <strong>Efficient Cause:</strong> The agent or process that brings something about.<br>\n <strong>Final Cause:</strong> The purpose or end for which something exists.<br>\n <strong>Critique of Pre-Socratics:</strong> Thales (water), Anaximenes (air), Heraclitus (fire), and Democritus (atoms) each tried to explain all reality by identifying a single material principle (<em>archē</em>). Aristotle argued this was insufficient because it failed to account for form, change, and purpose—all essential for understanding substance.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Human Rights",
+      "Philosophy of Rights"
+    ],
+    "Question": {
+      "content": "Man is entitled to the fundamental human rights by virtue of being ______",
+      "type": "OBJ",
+      "options": [
+        "A Philosopher",
+        "A social being",
+        "A political animal",
+        "A rational being",
+        "Religious being"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A rational being"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Foundation of Human Rights</h4>\n <p>The correct answer is <strong>A rational being</strong>. The dominant philosophical justification for human rights, particularly in the modern tradition, locates their foundation in human rationality and dignity.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Philosophical Foundations</strong><br>\n <strong>Kantian Tradition:</strong> Immanuel Kant argued that human beings possess inherent dignity and worth by virtue of their capacity for rational agency and autonomy. Rights derive from this rational nature—the ability to set ends and make moral laws for oneself.<br>\n <strong>Natural Law Tradition:</strong> From Cicero to Aquinas to Locke, human rights (natural rights) are grounded in human reason, which allows us to discern moral law and participate in the rational order of the universe.<br>\n <strong>Why Not Other Options:</strong> While humans are social and political beings (Aristotle's <em>zōon politikon</em>), these are not the ultimate ground of rights. The Universal Declaration of Human Rights begins with recognition of 'the inherent dignity and of the equal and inalienable rights of all members of the human family'—dignity tied to reason, not merely sociality.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Aristotle, Logic, and Ancient Philosophy",
+    "Subheading": "Questions 31-36"
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Aristotle",
+      "Causality",
+      "Metaphysics"
+    ],
+    "Question": {
+      "content": "The earliest philosopher associated with the formal, material, efficient and final causes of a thing is ______",
+      "type": "OBJ",
+      "options": [
+        "Thales",
+        "Plato",
+        "Aristotle",
+        "Socrates",
+        "Pythagoras"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aristotle"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Aristotle's Four Causes</h4>\n <p>The correct answer is <strong>Aristotle</strong>. He was the first philosopher to systematically articulate and name the four causes (aitiai) as a comprehensive framework for explaining change, existence, and knowledge.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Four Causes Explained</strong><br>\n <strong>Material Cause:</strong> That out of which something is made (e.g., bronze of a statue).<br>\n <strong>Formal Cause:</strong> The form, essence, or definition of a thing (e.g., the shape of a statue).<br>\n <strong>Efficient Cause:</strong> The agent or process that brings something into being (e.g., the sculptor).<br>\n <strong>Final Cause (Telos):</strong> The purpose or end for which something exists (e.g., honoring a hero).<br>\n <strong>Significance:</strong> For Aristotle, to truly know something is to grasp all four causes. Earlier philosophers focused only on material or efficient causes. Aristotle's innovation was emphasizing formal and final causes, particularly purpose (<em>telos</em>) in understanding nature.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Logic",
+      "Reasoning"
+    ],
+    "Question": {
+      "content": "______ moves from general to particular proposition.",
+      "type": "OBJ",
+      "options": [
+        "Arguments",
+        "Inductive argument",
+        "Deductive argument",
+        "Inference",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Deductive argument"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Deductive Reasoning</h4>\n <p>The correct answer is <strong>Deductive argument</strong>. Deduction is the logical process of reasoning from general principles (premises) to specific conclusions.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Deduction vs. Induction</strong><br>\n <strong>Deductive Argument (General → Particular):</strong> Moves from a general rule or premise to a specific instance. If the premises are true and the logic is valid, the conclusion is guaranteed.<br>\n <em>Example:</em> All humans are mortal. (General) Socrates is human. (Specific) Therefore, Socrates is mortal. (Particular conclusion)<br>\n <strong>Inductive Argument (Particular → General):</strong> Moves from specific observations to general conclusions. The conclusion is probable but not guaranteed.<br>\n <em>Example:</em> Swan 1 is white, swan 2 is white... therefore, all swans are white.<br>\n <strong>Inference:</strong> A broader term meaning any conclusion reached through reasoning; includes both deduction and induction.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Pre-Socratic Philosophy",
+      "Atomism"
+    ],
+    "Question": {
+      "content": "Who among the following postulated atoms as the primary substance of reality?",
+      "type": "OBJ",
+      "options": [
+        "Thales",
+        "Epicurus",
+        "Anaximenes",
+        "Democritus",
+        "Anaximander"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Democritus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ancient Atomism</h4>\n <p>The correct answer is <strong>Democritus</strong> (c. 460-370 BCE). Along with his teacher Leucippus, Democritus developed the theory of atomism—the idea that all reality consists of indivisible particles called atoms moving through empty space (void).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Atomist Principles</strong><br>\n <strong>Atoms (Atomos):</strong> From Greek <em>a-tomos</em> meaning 'uncuttable' or 'indivisible.' Democritus proposed that atoms are eternal, indestructible, and infinite in number and shape. Differences in matter arise from variations in atoms' shape, order, and position.<br>\n <strong>Void (Kenon):</strong> Empty space is necessary for atoms to move and combine; without void, no change or motion would be possible.<br>\n <strong>Epicurus (341-270 BCE):</strong> Later adopted and modified Democritus's atomism, incorporating it into his ethical philosophy. However, Democritus was the originator of the theory.<br>\n <strong>Contrast with Other Pre-Socratics:</strong> Thales (water), Anaximenes (air), Anaximander (apeiron—the boundless)—all proposed continuous substances, not discrete particles.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Pragmatism",
+      "American Philosophy"
+    ],
+    "Question": {
+      "content": "Neither John Dewey nor Charles Peirce is the father of pragmatism. The father of pragmatism is ______",
+      "type": "OBJ",
+      "options": [
+        "William James",
+        "John Dewey",
+        "Anaximander",
+        "Charles Peirce",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "William James"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Founding of Pragmatism</h4>\n <p>The correct answer is <strong>William James</strong>. However, this requires careful clarification: Charles Sanders Peirce is often credited as the founder of pragmatism, while William James popularized it and made it a recognized philosophical movement.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Historical Context</strong><br>\n <strong>Charles Sanders Peirce (1839-1914):</strong> Originated the pragmatic maxim in the 1870s. His article 'How to Make Our Ideas Clear' (1878) laid the groundwork. He later renamed his philosophy 'pragmaticism' to distinguish it from James's interpretation.<br>\n <strong>William James (1842-1910):</strong> Popularized pragmatism through lectures and his book <em>Pragmatism</em> (1907). For James, truth is what 'works' in experience. The question phrasing 'Neither John Dewey nor Charles Peirce...' points to James as the answer, acknowledging James as the most widely recognized proponent.<br>\n <strong>John Dewey (1859-1952):</strong> Developed pragmatism into instrumentalism, applying it to education and social philosophy. He came after both Peirce and James.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Human Rights",
+      "Marxism",
+      "Economic Rights"
+    ],
+    "Question": {
+      "content": "According to ______, economic rights should constitute the content of human rights.",
+      "type": "OBJ",
+      "options": [
+        "The universal declaration of rights",
+        "Marxists",
+        "Sociologists",
+        "The Social Contract theorists",
+        "The Sophists"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Marxists"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Marxist Perspective on Rights</h4>\n <p>The correct answer is <strong>Marxists</strong>. Karl Marx and subsequent Marxist thinkers critiqued traditional human rights (civil and political rights) as formal and insufficient without addressing material and economic conditions.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Marxist View on Rights</strong><br>\n <strong>Critique of Bourgeois Rights:</strong> Marx argued that the rights proclaimed in liberal democracies (freedom of speech, property rights) serve the interests of the capitalist class and do not address the exploitation of workers.<br>\n <strong>Economic Rights as Fundamental:</strong> For Marxists, true human rights must include the right to work, the right to adequate food, housing, healthcare, and education. Without economic security, political rights are hollow.<br>\n <strong>Beyond Formal Rights:</strong> Marxism emphasizes that rights must be substantive—requiring the transformation of economic structures to ensure human dignity.<br>\n <strong>Contrast with Universal Declaration (1948):</strong> While the UDHR includes economic rights (Articles 22-26), Marxists would argue these are insufficiently emphasized or realized under capitalism.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Ethics",
+      "Morality"
+    ],
+    "Question": {
+      "content": "According to Kant, an action performed from inclination rather than duty lacks ______",
+      "type": "OBJ",
+      "options": [
+        "Morality",
+        "Legal validity",
+        "Social approval",
+        "Moral worth",
+        "Consequences"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Moral worth"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Kant on Moral Worth</h4>\n <p>The correct answer is <strong>Moral worth</strong>. For Immanuel Kant, the moral value of an action depends not on its consequences or on the agent's feelings, but on whether it is done from the motive of duty.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Duty vs. Inclination</strong><br>\n <strong>Action from Inclination:</strong> An action motivated by personal desire, feeling, or self-interest. Example: Helping someone because it makes you feel good or because you like them.<br>\n <strong>Action from Duty:</strong> An action motivated by respect for the moral law itself, not by any personal benefit or emotional inclination. Example: Helping someone because it is the right thing to do, regardless of how you feel.<br>\n <strong>Kant's Claim:</strong> Only actions performed from duty have <strong>moral worth (moralischer Wert)</strong>. Actions from inclination may be praiseworthy and useful, but they lack true moral value because they are contingent on feeling, not a commitment to moral principle.<br>\n <strong>Example:</strong> A shopkeeper who charges fair prices because it is good for business (inclination) versus because honesty is a duty (from duty). Only the latter has moral worth for Kant.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Pre-Socratic Philosophy, Pragmatism, and Logic",
+    "Subheading": "Questions 37-45"
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Greek Philosophy",
+      "Mythology",
+      "Milesians"
+    ],
+    "Question": {
+      "content": "Prior to the philosophical reflections of the Milesians, the classical Greek minds had their source in _____",
+      "type": "OBJ",
+      "options": [
+        "Polity",
+        "Man",
+        "Mythology",
+        "Society",
+        "Socrates"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mythology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>From Mythos to Logos</h4>\n <p>The correct answer is <strong>Mythology</strong>. Before the emergence of philosophy in Miletus (6th century BCE), Greek thought was primarily expressed through mythology—stories of gods, heroes, and cosmic origins passed down through poets like Homer and Hesiod.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Transition</strong><br>\n <strong>Mythological Period:</strong> Greek understanding of the world, nature, and human existence was framed through myth (<em>mythos</em>). Explanations were anthropomorphic, involving the actions of gods (Zeus, Poseidon, etc.). Hesiod's <em>Theogony</em> presented creation through divine genealogies.<br>\n <strong>Milesian Philosophers (Thales, Anaximander, Anaximenes):</strong> Marked the shift from <em>mythos</em> to <em>logos</em> (reasoned explanation). They sought natural, rational explanations for the origin and structure of the cosmos without appealing to divine intervention.<br>\n <strong>Significance:</strong> This transition from mythology to philosophy represents the birth of Western philosophy—the attempt to explain reality through reason rather than sacred stories.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Pragmatism",
+      "American Philosophy"
+    ],
+    "Question": {
+      "content": "The pragmatists who insist that truth is what works are _____",
+      "type": "OBJ",
+      "options": [
+        "William James and John Locke",
+        "John Locke and Immanuel Kant",
+        "Karl Max and C. S. Peirce",
+        "John Dewey and William James",
+        "Francis Bacon and Bertrand Russell"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "John Dewey and William James"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pragmatic Theory of Truth</h4>\n <p>The correct answer is <strong>John Dewey and William James</strong>. These two American philosophers are most closely associated with the pragmatic maxim that truth is determined by practical consequences and 'what works' in experience.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Pragmatists on Truth</strong><br>\n <strong>William James (1842-1910):</strong> Famously defined truth as 'what works' or what proves useful in experience. In <em>Pragmatism</em> (1907), he argued that an idea is true if it successfully guides action and leads to satisfactory outcomes. Truth is made, not discovered—it happens to an idea.<br>\n <strong>John Dewey (1859-1952):</strong> Developed instrumentalism, viewing truth as that which solves problems and fulfills human purposes. For Dewey, truth is not static correspondence but a dynamic process of inquiry leading to warranted assertibility.<br>\n <strong>Charles Sanders Peirce (1839-1914):</strong> The originator of pragmatism, but his theory focused on meaning rather than truth as 'what works.' He emphasized the pragmatic maxim for clarifying concepts through conceivable practical effects.<br>\n <strong>Contrast with Others:</strong> John Locke (empiricist), Immanuel Kant (rationalist/idealist), and Bertrand Russell (analytic philosopher) did not hold pragmatic theories of truth.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Logic",
+      "Inference"
+    ],
+    "Question": {
+      "content": "The process of deriving one statement on the basis of others is _____",
+      "type": "OBJ",
+      "options": [
+        "Consistency",
+        "Logic",
+        "Inference",
+        "Thinking",
+        "Epistemology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Inference"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Inference</h4>\n <p>The correct answer is <strong>Inference</strong>. Inference is the cognitive and logical process of moving from given information (premises, evidence, or assumptions) to a new conclusion or statement.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Concepts</strong><br>\n <strong>Inference:</strong> The act or process of deriving logical conclusions from premises. Every argument involves inference—the step from accepted statements to a new statement that follows from them.<br>\n <strong>Logic:</strong> The systematic study of the principles of valid inference. Logic provides the rules and standards by which inferences are evaluated as valid or invalid.<br>\n <strong>Consistency:</strong> The property of statements not contradicting each other; not directly about deriving new statements.<br>\n <strong>Epistemology:</strong> The branch of philosophy concerned with the nature, scope, and limits of knowledge—broader than inference.<br>\n <strong>Example:</strong> From the statements 'All humans are mortal' and 'Socrates is human,' we <em>infer</em> 'Socrates is mortal.'<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Philosophy of Religion",
+      "Cosmological Argument",
+      "A Posteriori"
+    ],
+    "Question": {
+      "content": "The cosmological argument for the existence of God is sometimes called _____",
+      "type": "OBJ",
+      "options": [
+        "Cause to effect argument or A priori argument",
+        "Effect to cause argument or A posteriori argument",
+        "A Priori argument",
+        "Ontological argument",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Effect to cause argument or A posteriori argument"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cosmological Argument</h4>\n <p>The correct answer is <strong>Effect to cause argument or A posteriori argument</strong>. The cosmological argument proceeds from observed features of the universe (effects) to infer the existence of a first cause or necessary being (God).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Features</strong><br>\n <strong>A Posteriori Argument:</strong> Based on empirical observation of the world. The cosmological argument begins with facts we experience—contingency, causation, motion—and reasons back to a cause or ground.<br>\n <strong>Effect to Cause Reasoning:</strong> Starts from observed effects (the existence of the cosmos, the fact of motion, contingent beings) and concludes there must be an ultimate cause (God).<br>\n <strong>Key Forms:</strong> Aquinas's Five Ways (motion, causation, contingency), Kalam cosmological argument (universe had a beginning).<br>\n <strong>Contrast with A Priori Arguments:</strong> The ontological argument (Anselm, Descartes) attempts to prove God's existence from the concept of God alone, without empirical premises.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": [
+      "Political Philosophy",
+      "Democracy"
+    ],
+    "Question": {
+      "content": "The form of government mostly accepted within the context of human philosophy is _____",
+      "type": "OBJ",
+      "options": [
+        "Liberal socialism",
+        "Marxian communism",
+        "Totalitarianism",
+        "Democracy",
+        "Platonism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Democracy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Democracy in Political Philosophy</h4>\n <p>The correct answer is <strong>Democracy</strong>. Among the major traditions of political philosophy, democracy (particularly liberal democracy) has become the most widely accepted form of government, grounded in principles of popular sovereignty, individual rights, and political equality.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Philosophical Justifications</strong><br>\n <strong>Classical Roots:</strong> Athenian democracy, though limited, provided the historical foundation. Aristotle recognized democracy (polity) as a potentially just form when it serves the common good.<br>\n <strong>Social Contract Tradition:</strong> Locke, Rousseau, and others grounded legitimate government in the consent of the governed.<br>\n <strong>Modern Liberal Democracy:</strong> Combines representative government, separation of powers, rule of law, and protection of individual rights. Philosophers like John Stuart Mill defended democracy as promoting liberty and human flourishing.<br>\n <strong>Contrast with Other Systems:</strong> Totalitarianism rejects human rights; communism historically led to authoritarian states; Plato's ideal polity was philosopher-kings, not democracy, which he criticized.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": [
+      "Logic",
+      "Deductive Arguments"
+    ],
+    "Question": {
+      "content": "The evaluation of validity/soundness of an argument is applicable to _____",
+      "type": "OBJ",
+      "options": [
+        "Deduction",
+        "Induction",
+        "Implication",
+        "Conjunction",
+        "Argument"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Deduction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Validity and Soundness</h4>\n <p>The correct answer is <strong>Deduction</strong>. The concepts of validity and soundness are technical terms that apply specifically to deductive arguments, not to inductive arguments.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Distinction</strong><br>\n <strong>Deductive Arguments:</strong> Can be evaluated for <strong>validity</strong> (if premises are true, conclusion must be true) and <strong>soundness</strong> (valid + premises actually true). These are precise, formal criteria.<br>\n <strong>Inductive Arguments:</strong> Evaluated for <strong>strength/weakness</strong> and <strong>cogency</strong>. Inductive arguments are never 'valid' in the technical sense because their conclusions are probabilistic, not guaranteed.<br>\n <strong>Example:</strong> 'All humans are mortal; Socrates is human; therefore Socrates is mortal'—a valid deductive argument. 'Most humans are right-handed; Socrates is human; therefore Socrates is right-handed'—an inductive argument that cannot be valid/invalid but can be stronger or weaker.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": [
+      "Human Rights",
+      "Fundamental Rights"
+    ],
+    "Question": {
+      "content": "All the charters on human rights agree that _____ is a fundamental human right",
+      "type": "OBJ",
+      "options": [
+        "Right to free housing",
+        "Right to vote and be voted for",
+        "Right to life",
+        "Right to health and education",
+        "Right to speech"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Right to life"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Universally Recognized Rights</h4>\n <p>The correct answer is <strong>Right to life</strong>. The right to life is considered the most fundamental human right and is universally recognized across all major human rights instruments, cultures, and legal systems.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Documentary Evidence</strong><br>\n <strong>Universal Declaration of Human Rights (1948), Article 3:</strong> 'Everyone has the right to life, liberty and security of person.'<br>\n <strong>International Covenant on Civil and Political Rights (1966), Article 6:</strong> 'Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life.'<br>\n <strong>Regional Charters:</strong> African Charter on Human and Peoples' Rights (Article 4), European Convention on Human Rights (Article 2), American Convention on Human Rights (Article 4) all protect the right to life.<br>\n <strong>Why Universal:</strong> Without the right to life, all other rights become meaningless. It is the prerequisite for exercising any other right or freedom.<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": [
+      "Logic",
+      "Laws of Thought"
+    ],
+    "Question": {
+      "content": "The principle of Logic that maintains that something might be said to be and at the same time said not to be is known as _____",
+      "type": "OBJ",
+      "options": [
+        "The doctrine of being",
+        "The doctrine of being or not-being",
+        "The principle of excluded middle",
+        "The principle of being",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Principle of Non-Contradiction</h4>\n <p>The correct answer is <strong>None of the above</strong>. The description in the question actually contradicts the fundamental laws of logic. No classical logical principle allows something to be and not be at the same time—this is prohibited by the Law of Non-Contradiction.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Correct Principles</strong><br>\n <strong>Law of Non-Contradiction (Aristotle):</strong> 'One cannot say of something that it is and that it is not in the same respect and at the same time.' This is the foundational law that prohibits what the question describes.<br>\n <strong>Law of Excluded Middle:</strong> A statement is either true or false; there is no middle ground (A or not-A).<br>\n <strong>Law of Identity:</strong> A thing is what it is (A = A).<br>\n <strong>What the Question Describes:</strong> The statement 'something might be said to be and at the same time said not to be' describes a <strong>violation</strong> of the Law of Non-Contradiction, not a principle of logic. Since none of the options list 'the principle of non-contradiction,' the correct answer is 'None of the above.'<br>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": [
+      "Heraclitus",
+      "Pre-Socratic Philosophy",
+      "Change"
+    ],
+    "Question": {
+      "content": "The Ancient dictum 'you cannot step twice into the same river' is credited to _____",
+      "type": "OBJ",
+      "options": [
+        "Aristotle",
+        "Plato",
+        "Parmenides",
+        "Heraclitus",
+        "Protagoras"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Heraclitus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Heraclitus: The Philosopher of Change</h4>\n <p>The correct answer is <strong>Heraclitus</strong> (c. 535-475 BCE). This famous saying encapsulates his central philosophical doctrine that everything is in constant flux and change is the fundamental nature of reality.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Heraclitus's Philosophy</strong><br>\n <strong>The River Fragment:</strong> 'We step and do not step into the same rivers; we are and are not.' (Heraclitus, Fragment 49a). The river remains the same in name, but the water is constantly flowing and changing. Thus, one cannot step into the 'same' river twice because it is never the same collection of water.<br>\n <strong>Core Doctrine (Panta Rhei):</strong> 'Everything flows' (<em>panta rhei</em>). Change is universal and constant. Stability is an illusion; reality is a process, not a static substance.<br>\n <strong>Contrast with Parmenides:</strong> Parmenides argued that change is an illusion and true reality is unchanging, indivisible Being. Heraclitus and Parmenides represent the two poles of Pre-Socratic thought on change and permanence.<br>\n <strong>Logos:</strong> For Heraclitus, the constant change is governed by a rational principle (<em>logos</em>) that maintains order through the tension of opposites.<br>\n </div>\n</div>"
+    }
+  }
+]
+{}
