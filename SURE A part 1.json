@@ -1,0 +1,1398 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Philosophy",
+    "code": "GES 212",
+    "session": "SURE A Part 1",
+    "topics": ["Epistemology", "Metaphysics", "History", "Ancient Greece", "Logic", "Reasoning", "Plato", "Aristotle", "Ethics", "Laws", "History of Philosophy", "Ancient Philosophy", "Fallacies", "Existentialism", "Human Rights", "Law", "Cosmology", "Analytic Philosophy", "Modern Philosophy", "Empiricism", "Parmenides", "Heraclitus", "Philosophy of Religion", "Ontological Argument", "Atomism", "Sophists", "Descartes", "Spinoza", "Carnap", "Thrasymachus", "Aesthetics", "Pythagoras", "Mathematics", "Moral Philosophy", "Pragmatism", "Contemporary Philosophy", "Truth", "Anaximander", "Utilitarianism", "Jeremy Bentham", "Kant", "Phenomena", "Pre-Socratics", "Miletus", "Greek Philosophy", "Mythology", "Logical Positivism", "Vienna Circle", "Arguments", "Soundness", "Philosophy of Knowledge", "Philosophy of Science", "Methodology", "Philosophical Movements", "Scientific Revolution", "History of Science", "Philosophy of Language"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
+  
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Philosophy",
+      "Epistemology",
+      "Metaphysics"
+    ],
+    "Question": {
+      "content": "The description of philosophy as a rational enterprise implies _____",
+      "type": "OBJ",
+      "options": [
+        "Extreme thinking",
+        "Knowledge in general",
+        "Absolute ideology",
+        "Knowledge of essences",
+        "Theoretical knowledge"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Knowledge of essences"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Philosophy as a Rational Enterprise</h4>\n <p>The correct answer is <strong>Knowledge of essences</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What does this mean?</strong><br>\n Philosophy, when described as a \"rational enterprise,\" means it relies on reason and logic to seek truth. It doesn't just accept things at face value. The goal of this rational process is to get to the \"essence\" of things—the fundamental, unchanging nature or core identity of a concept, object, or idea. For example, a philosopher doesn't just describe a chair; they use reason to ask, \"What is the essence of a chair? What makes a chair a chair?\" This is different from just having theoretical knowledge (knowing about something) or general knowledge; it's about understanding the most basic principles of being.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Epistemology",
+      "Metaphysics",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "The relationship between knowledge and reality presupposes the relationship between ____ and ____ respectively",
+      "type": "OBJ",
+      "options": [
+        "Matter and form",
+        "Philosophy and science",
+        "Essence and existence",
+        "Metaphysics and logic",
+        "Epistemology and metaphysics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epistemology and metaphysics"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Link Between Knowledge and Reality</h4>\n <p>The correct answer is <strong>Epistemology and metaphysics</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Breaking it down</strong><br>\n This question is about the two core branches of philosophy that deal with the question of \"knowledge\" and \"reality.\"\n <ul>\n <li><strong>Epistemology</strong> is the branch of philosophy that studies <strong>knowledge</strong>. It asks: What is knowledge? How do we know what we know? What is truth?</li>\n <li><strong>Metaphysics</strong> is the branch of philosophy that studies the nature of <strong>reality</strong>. It asks: What is real? What is the fundamental nature of existence?</li>\n </ul>\n <p>So, when we think about how our knowledge connects to actual reality, we are essentially linking the study of knowledge (epistemology) with the study of reality (metaphysics).</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Philosophy",
+      "History",
+      "Ancient Greece"
+    ],
+    "Question": {
+      "content": "Socrates died by ____",
+      "type": "OBJ",
+      "options": [
+        "Starving himself to death",
+        "Hanging himself",
+        "Drinking hemlock",
+        "Burning himself",
+        "Committing suicide"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Drinking hemlock"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Death of Socrates</h4>\n <p>The correct answer is <strong>Drinking hemlock</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Historical Context</strong><br>\n Socrates, the famous Greek philosopher, was put on trial in Athens in 399 BC for impiety (not believing in the city's gods) and corrupting the youth. He was found guilty and sentenced to death. Instead of fleeing or choosing a different punishment, he accepted the sentence. His method of execution was to drink a poisonous liquid made from the hemlock plant, which caused paralysis and eventually death. This event is famously recorded in Plato's dialogues, especially the <em>Phaedo</em>.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Logic",
+      "Reasoning",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "When we reason we carry out one of the following ____",
+      "type": "OBJ",
+      "options": [
+        "We create facts and truths",
+        "We distill facts and truths",
+        "We draw inferences from our reason",
+        "We necessarily abandon the truth",
+        "We become logicalists"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "We draw inferences from our reason"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Does It Mean to Reason?</h4>\n <p>The correct answer is <strong>We draw inferences from our reason</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n Reasoning is the mental process of using logic and existing knowledge to reach a new conclusion. The key action in reasoning is making an <strong>inference</strong>. An inference is a conclusion you reach on the basis of evidence and reasoning. For example, if you see wet ground, you can reason that it rained. You are \"drawing an inference\" from your observation. The other options are incorrect because reasoning doesn't create facts (it discovers them), and it certainly doesn't involve abandoning the truth.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Metaphysics",
+      "Philosophy",
+      "Plato",
+      "Aristotle"
+    ],
+    "Question": {
+      "content": "Metaphysically, Plato’s idealism is opposed to Aristotle’s ____",
+      "type": "OBJ",
+      "options": [
+        "Materialism",
+        "Idealism",
+        "Empiricism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Materialism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Plato vs. Aristotle on Reality</h4>\n <p>The correct answer is <strong>Materialism</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Great Philosophical Debate</strong><br>\n <ul>\n <li><strong>Plato's Idealism:</strong> Plato believed the ultimate reality is in a non-physical realm of \"Forms\" or \"Ideas\" (perfect, eternal concepts like \"justice\" or \"beauty\"). The physical world we see is just a shadow or imperfect copy of this ideal realm.</li>\n <li><strong>Aristotle's View:</strong> Aristotle, Plato's student, disagreed. He believed that reality is found in the physical world. To understand something, you study its physical form and substance. This focus on the physical world as the primary reality is a form of <strong>materialism</strong>. While \"empiricism\" (knowledge from the senses) is related, the core metaphysical opposition is between ideal (non-physical) reality and material (physical) reality.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Ethics",
+      "Philosophy",
+      "Laws"
+    ],
+    "Question": {
+      "content": "Ethical principles differ from ordinary physical laws in that they are ____",
+      "type": "OBJ",
+      "options": [
+        "Laws of nature",
+        "Laws of conscience",
+        "Man-made laws",
+        "Divine laws",
+        "Societal laws"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Laws of conscience"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ethical Principles vs. Physical Laws</h4>\n <p>The correct answer is <strong>Laws of conscience</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Difference</strong><br>\n Physical laws (like gravity) are descriptive and universal—they describe how the world <em>does</em> work. You cannot choose to disobey them. Ethical principles are prescriptive—they tell you how you <em>ought</em> to behave. They are based on our internal sense of right and wrong, our \"conscience.\" While they may be reflected in divine or societal laws, their fundamental source and enforcement mechanism is internal to the individual, not an external force of nature.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "History of Philosophy",
+      "Ancient Philosophy"
+    ],
+    "Question": {
+      "content": "The history of ancient period is divided into ____",
+      "type": "OBJ",
+      "options": [
+        "Pre-socratic & Medieval",
+        "Socratic & Milesians",
+        "Modern & Contemporary",
+        "Socratic & Classical",
+        "Pre-socratic & Socratic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pre-socratic & Socratic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Divisions of Ancient Philosophy</h4>\n <p>The correct answer is <strong>Pre-socratic & Socratic</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Two Major Periods</strong><br>\n The history of ancient Greek philosophy is commonly divided into two main periods:\n <ul>\n <li><strong>Pre-Socratic Philosophy:</strong> This period includes philosophers who came before Socrates, like Thales, Anaximander, and Heraclitus. They focused on questions about the natural world (cosmology) and the fundamental substance of reality.</li>\n <li><strong>Socratic Philosophy:</strong> This period begins with Socrates, who shifted the focus from the natural world to human affairs, ethics, and how we should live. It includes his student Plato and Plato's student Aristotle.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Logic",
+      "Fallacies",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "The fallacy involved in begging the question is known in Latin as ____",
+      "type": "OBJ",
+      "options": [
+        "Non Sequitur",
+        "Ignoratio Elenchi",
+        "Petitio principii",
+        "Argumentum ad hominem",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Petitio principii"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Fallacy of Begging the Question</h4>\n <p>The correct answer is <strong>Petitio principii</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Begging the Question?</strong><br>\n This logical fallacy occurs when an argument's premise assumes the truth of its conclusion, instead of supporting it. It's essentially a form of circular reasoning.\n <ul>\n <li><strong>Example:</strong> \"The Bible is true because it is the word of God.\"</li>\n <li><strong>Why it's a fallacy:</strong> The premise (the Bible is the word of God) is just a restatement of the conclusion (the Bible is true) and isn't proven by any independent evidence.</li>\n </ul>\n <p><strong>Petitio principii</strong> is the Latin term for this fallacy, meaning \"assuming the initial point.\"</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Existentialism",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "Two famous existentialist thinkers are",
+      "type": "OBJ",
+      "options": [
+        "Immanuel Kant & Karl Marx",
+        "Fredrick Nietzsche & Socrates",
+        "Descartes & Kant",
+        "Charles Darwin and Ludwig Wittgenstein",
+        "Soren Kierkegaard & Fredrick Nietzsche"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Soren Kierkegaard & Fredrick Nietzsche"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Thinkers of Existentialism</h4>\n <p>The correct answer is <strong>Soren Kierkegaard & Fredrick Nietzsche</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Who Were They?</strong><br>\n Existentialism is a philosophical movement that focuses on individual existence, freedom, and choice. It emphasizes that individuals are free and responsible for creating meaning in their own lives.\n <ul>\n <li><strong>Søren Kierkegaard</strong> (1813-1855), a Danish philosopher, is often considered the \"father of existentialism.\" He emphasized the importance of individual faith and subjective truth.</li>\n <li><strong>Friedrich Nietzsche</strong> (1844-1900), a German philosopher, explored ideas like the \"will to power\" and the rejection of traditional morality, urging individuals to create their own values.</li>\n </ul>\n <p>Other major existentialists include Jean-Paul Sartre, Albert Camus, and Simone de Beauvoir.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Logic",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "Truth value is a common expression in what branch of philosophy?",
+      "type": "OBJ",
+      "options": [
+        "Epistemology",
+        "Metaphysics",
+        "Ethics",
+        "Logic",
+        "Aesthetics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Logic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Truth Value</h4>\n <p>The correct answer is <strong>Logic</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is a Truth Value?</strong><br>\n In logic, a \"truth value\" is a value indicating the truth or falsity of a proposition (a statement). The two most common truth values are \"true\" and \"false.\"\n <ul>\n <li>Logic is the branch of philosophy that studies the principles of correct reasoning and argumentation.</li>\n <li>Logicians use truth values to evaluate arguments. For example, in a logical statement like \"If it is raining (P), then the ground is wet (Q),\" they analyze the truth value of P and Q to determine if the overall argument is valid.</li>\n </ul>\n <p>While epistemology studies knowledge (which is related to truth), the specific term \"truth value\" is a technical tool most commonly used in formal logic.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Human Rights",
+      "Ethics",
+      "Law"
+    ],
+    "Question": {
+      "content": "Human right is equivalent to which of these?",
+      "type": "OBJ",
+      "options": [
+        "Right to life",
+        "Social right",
+        "Legal right",
+        "Cultural right",
+        "Jural right"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Jural right"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is a Human Right?</h4>\n <p>The correct answer is <strong>Jural right</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Breaking Down the Terms</strong><br>\n This question is about the most precise equivalent to \"human right.\" Let's look at the options:\n <ul>\n <li><strong>Jural Right:</strong> The word \"jural\" relates to the theory of rights and obligations. A jural right is a right that is recognized and protected by the fundamental principles of justice. This is the most direct synonym for a human right, which is seen as a basic, inherent right that belongs to every person.</li>\n <li><strong>Other Rights:</strong> Rights like the \"right to life,\" \"social rights,\" \"legal rights,\" and \"cultural rights\" are all <em>types</em> of human rights. However, the question asks for an equivalent term, and \"jural right\" captures the foundational, inherent nature of human rights better than listing a specific category.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Cosmology",
+      "Philosophy",
+      "Metaphysics"
+    ],
+    "Question": {
+      "content": "One who studies the nature, the origin and purpose of the universe is called a ___",
+      "type": "OBJ",
+      "options": [
+        "Metaphysician",
+        "Universalis",
+        "Ontologist",
+        "Evolutionist",
+        "Cosmologist"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cosmologist"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining a Cosmologist</h4>\n <p>The correct answer is <strong>Cosmologist</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Study of the Universe</strong><br>\n While these terms are related, they have specific meanings:\n <ul>\n <li><strong>Cosmologist:</strong> This is the most direct answer. Cosmology is the scientific and philosophical study of the cosmos—the universe as a whole. It deals with its origin (like the Big Bang), its structure, its evolution, and its ultimate fate.</li>\n <li><strong>Metaphysician:</strong> A philosopher who studies the fundamental nature of reality, which includes the universe, but is a broader field that also studies concepts like being, time, and free will.</li>\n <li><strong>Ontologist:</strong> A philosopher who specializes in ontology, which is the study of being and existence—what it means for something to exist. This is a sub-branch of metaphysics.</li>\n <li><strong>Evolutionist:</strong> Someone who studies the process of biological evolution, not the origin of the universe itself.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Philosophy",
+      "Analytic Philosophy"
+    ],
+    "Question": {
+      "content": "_____ defined philosophy as the logical clarification of thought by _____",
+      "type": "OBJ",
+      "options": [
+        "Alfred North Whitehead",
+        "Witgenstein",
+        "Wittgenstein",
+        "Bertrand Russell",
+        "Fitzgenstein"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Wittgenstein"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Wittgenstein's View on Philosophy</h4>\n <p>The correct answer is <strong>Wittgenstein</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Who was Wittgenstein?</strong><br>\n Ludwig Wittgenstein was a highly influential 20th-century philosopher. In his early work, the <em>Tractatus Logico-Philosophicus</em>, he famously stated that \"Philosophy is not a theory but an activity... The object of philosophy is the logical clarification of thoughts.\" He believed that philosophical problems arose from misunderstandings of language, and the role of philosophy was to clarify these thoughts through logical analysis, showing that many so-called problems were actually nonsensical questions.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Analytic Philosophy",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "The contemporary philosophical movement concerned with the examination of vagueness of ideas is ___",
+      "type": "OBJ",
+      "options": [
+        "Existentialism",
+        "Linguistic analysis",
+        "Analytic philosophy",
+        "Logical positivism",
+        "Pragmatism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Analytic philosophy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Focus of Analytic Philosophy</h4>\n <p>The correct answer is <strong>Analytic philosophy</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Analytic Philosophy?</strong><br>\n Analytic philosophy is a dominant tradition in 20th and 21st-century philosophy. Its core method involves using logic and linguistic analysis to clarify concepts and examine the meaning of statements. It aims to break down vague, complex ideas into their logical components to resolve or dissolve philosophical problems. While \"linguistic analysis\" is a method used within analytic philosophy, \"analytic philosophy\" is the broader movement that encompasses this concern with conceptual and linguistic clarity. Logical positivism was an early, more radical form of it, but analytic philosophy as a whole is the best answer here.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "History of Philosophy",
+      "Modern Philosophy"
+    ],
+    "Question": {
+      "content": "In which period of philosophy was empirical first laid on reason, science and experimentation?",
+      "type": "OBJ",
+      "options": [
+        "Modern period",
+        "Classical period",
+        "Medieval period",
+        "Contemporary period",
+        "Dark Age"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Modern period"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Birth of Modern Science and Philosophy</h4>\n <p>The correct answer is <strong>Modern period</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Shift to Empiricism and Science</strong><br>\n The Modern period (roughly the 17th to 19th centuries) marks a major turning point in philosophy. This was the era of the Scientific Revolution (Copernicus, Galileo, Newton). Philosophers began to emphasize <strong>empiricism</strong> (knowledge from sensory experience) and the use of <strong>reason</strong> in a systematic, scientific way.\n <ul>\n <li>Key figures like Francis Bacon championed the experimental method.</li>\n <li>René Descartes emphasized the use of reason to build a foundation for knowledge.</li>\n <li>This period moved away from the medieval focus on theology and the classical focus on abstract ideals, placing a new emphasis on observing the natural world and using experimentation to understand it.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Logic",
+      "Reasoning",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "The process of moving from premises to conclusion is called ___",
+      "type": "OBJ",
+      "options": [
+        "Deduction",
+        "Induction",
+        "Analytical",
+        "Inference",
+        "Conclusion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Inference"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Act of Reasoning</h4>\n <p>The correct answer is <strong>Inference</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is an Inference?</strong><br>\n An inference is the mental process of moving from a set of given statements (called premises) to a new statement (the conclusion). It is the act of reasoning. For example, given the premises \"All humans are mortal\" and \"Socrates is a human,\" you can make the inference: \"Therefore, Socrates is mortal.\"\n <ul>\n <li><strong>Deduction</strong> and <strong>Induction</strong> are <em>types</em> of inferences.</li>\n <li>Deduction is a type of inference where the conclusion necessarily follows from the premises (if the premises are true, the conclusion must be true).</li>\n <li>Induction is a type of inference where the conclusion is probable based on the premises (e.g., \"All observed swans are white, so all swans are probably white\").</li>\n </ul>\n <p>So, while deduction and induction are specific ways to move from premises to a conclusion, the general term for that process is <strong>inference</strong>.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Epistemology",
+      "Empiricism",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "The ______ argue against innate ideas",
+      "type": "OBJ",
+      "options": [
+        "Idealists",
+        "Empiricists",
+        "Logical Positivists",
+        "Rationalists",
+        "Existentialists"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Empiricists"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Debate on Innate Ideas</h4>\n <p>The correct answer is <strong>Empiricists</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What are Innate Ideas?</strong><br>\n Innate ideas are concepts or knowledge that are supposedly present in the mind from birth, independent of sensory experience. The debate between rationalists and empiricists centers on this.<br><br>\n <strong style='color: var(--strongColor);'>The Empiricist Position</strong><br>\n Empiricists (like John Locke, David Hume, and George Berkeley) argue that the human mind is a <em>tabula rasa</em> (blank slate) at birth. All knowledge comes from sensory experience. Therefore, they strongly reject the notion of innate ideas. Locke, in his <em>Essay Concerning Human Understanding</em>, systematically argued against the existence of innate principles.<br><br>\n In contrast, Rationalists (like Descartes) argued that certain ideas (e.g., the concept of God, mathematical truths) are innate and do not come from experience.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Ancient Philosophy",
+      "Metaphysics",
+      "Parmenides",
+      "Heraclitus"
+    ],
+    "Question": {
+      "content": "In the Ancient period, the problem of permanence and change was a controversy between philosophers ______",
+      "type": "OBJ",
+      "options": [
+        "Parmenides & Cratylus",
+        "Heraclitus & Zeno",
+        "Parmenides & Socrates",
+        "Parmenides & Heraclitus",
+        "Pythagoras & Parmenides"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parmenides & Heraclitus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Permanence vs. Change Debate</h4>\n <p>The correct answer is <strong>Parmenides & Heraclitus</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Two Opposing Views</strong><br>\n This is one of the most famous philosophical debates in ancient Greece:\n <ul>\n <li><strong>Heraclitus (c. 535-475 BCE):</strong> Argued that reality is characterized by constant change. His famous dictum \"You cannot step into the same river twice\" emphasizes that everything is in flux. For him, change is the fundamental nature of reality.</li>\n <li><strong>Parmenides (c. 515-450 BCE):</strong> Argued the complete opposite. He believed that change is an illusion. True reality is unchanging, eternal, and one. What we perceive as change is merely deceptive appearance. Being is, and cannot not be; non-being is impossible.</li>\n </ul>\n <p>The tension between these two views set the stage for later philosophers like Plato and Aristotle to attempt to reconcile permanence and change.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Philosophy of Religion",
+      "Metaphysics",
+      "Ontological Argument"
+    ],
+    "Question": {
+      "content": "The ontological argument for the existence of God is called ______ or ______",
+      "type": "OBJ",
+      "options": [
+        "Aposteriori or a priori argument",
+        "Cause to effect argument or Apriori argument",
+        "Effect to cause argument or Aposteriori argument",
+        "A priori argument or effect to cause argument",
+        "Cosmological argument or ontological argument"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A priori argument or effect to cause argument"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Ontological Argument Explained</h4>\n <p>The correct answer is <strong>A priori argument or effect to cause argument</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Types of Arguments for God's Existence</strong><br>\n Philosophers categorize arguments for God's existence in two main ways:\n <ul>\n <li><strong>A Priori Argument:</strong> An argument that does not depend on experience. It uses reason alone, starting from the definition or concept of God. The ontological argument (first formulated by St. Anselm) is the classic example: God is \"that than which nothing greater can be conceived.\" If such a being exists in the mind, it must also exist in reality, because existence in reality is greater than existence only in the mind.</li>\n <li><strong>Effect to Cause Argument:</strong> This describes arguments that reason from the existence of the world (the effect) back to a first cause (God). The cosmological argument (from motion, causation, contingency) is a type of effect-to-cause reasoning.</li>\n </ul>\n <p>While the question's phrasing is unusual, it identifies the ontological argument as an <strong>a priori</strong> argument, which is a form of <strong>effect to cause</strong> reasoning in a broad sense (though it doesn't start from a physical effect like the cosmological argument).</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Ancient Philosophy",
+      "Parmenides",
+      "Metaphysics"
+    ],
+    "Question": {
+      "content": "Parmenidean philosophy is a result of ______ philosophy",
+      "type": "OBJ",
+      "options": [
+        "Rationalist",
+        "Empiricist",
+        "Democritean",
+        "Zenist",
+        "Heraclitean"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Heraclitean"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Parmenides in Context</h4>\n <p>The correct answer is <strong>Heraclitean</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Reaction to Heraclitus</strong><br>\n Parmenides' philosophy can be seen as a direct reaction to the philosophy of Heraclitus. Heraclitus famously claimed that \"everything flows\" (panta rhei) and that change is the fundamental principle of reality. Parmenides found this view to be logically incoherent. He argued that if everything is constantly changing, then nothing truly exists, and we cannot have stable knowledge. In response, he developed his doctrine that true reality (Being) is one, unchanging, and eternal. Therefore, Parmenidean philosophy emerged as a <strong>result of</strong> or in opposition to Heraclitean philosophy.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Ancient Philosophy",
+      "Atomism",
+      "Metaphysics"
+    ],
+    "Question": {
+      "content": "For a group of philosophers, atoms constituted all reality ______",
+      "type": "OBJ",
+      "options": [
+        "Socratic and Plato",
+        "Hegelian and Sophists",
+        "Aristotle and Democritus",
+        "Epicurus and Leucippus",
+        "Platonic and atomists"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Epicurus and Leucippus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Atomists</h4>\n <p>The correct answer is <strong>Epicurus and Leucippus</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Who Were the Atomists?</strong><br>\n Atomism is an ancient philosophical theory that reality is composed of indivisible, indestructible particles called atoms moving through empty space (the void).\n <ul>\n <li><strong>Leucippus (5th century BCE):</strong> Credited as the founder of atomism, though little is known about him.</li>\n <li><strong>Democritus (c. 460-370 BCE):</strong> Leucippus' student who developed the theory extensively, explaining all physical phenomena in terms of atoms and their motion.</li>\n <li><strong>Epicurus (341-270 BCE):</strong> Later adopted and modified atomism as the physical basis for his ethical philosophy, emphasizing that understanding atomic motion helps free people from fear of the gods and death.</li>\n </ul>\n <p>The pairing \"Epicurus and Leucippus\" represents both the founder and the later popularizer of atomism. While Democritus is equally important, this option is the correct one among the given choices.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Ancient Philosophy",
+      "Sophists",
+      "Epistemology"
+    ],
+    "Question": {
+      "content": "Famous Sophists in the ancient period who saw knowledge as relative or subjective were ______",
+      "type": "OBJ",
+      "options": [
+        "Protagoras, Gorgias and Parmenides",
+        "Pythagoras, Plato and Thrasymachus",
+        "Socrates, Plato and Aristotle",
+        "Gorgias, Thrasymachus and Protagoras",
+        "Protagoras, Gorgias and Pythagoras"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gorgias, Thrasymachus and Protagoras"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Sophists and Relativism</h4>\n <p>The correct answer is <strong>Gorgias, Thrasymachus and Protagoras</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Who Were the Sophists?</strong><br>\n The Sophists were traveling teachers in ancient Greece who taught rhetoric, virtue, and practical skills for success. They were known for their relativistic views:\n <ul>\n <li><strong>Protagoras (c. 490-420 BCE):</strong> Famously stated, \"Man is the measure of all things,\" meaning truth is relative to the individual. There is no objective truth.</li>\n <li><strong>Gorgias (c. 483-375 BCE):</strong> A skeptic who argued that: (1) nothing exists; (2) even if something exists, it cannot be known; (3) even if it can be known, it cannot be communicated.</li>\n <li><strong>Thrasymachus (c. 5th century BCE):</strong> Argued that justice is nothing but the advantage of the stronger, a moral relativist position that equates \"right\" with whatever those in power decide.</li>\n </ul>\n <p>All three are correctly identified as Sophists who held relativistic or skeptical views about knowledge, truth, or justice.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Modern Philosophy",
+      "Descartes",
+      "Epistemology"
+    ],
+    "Question": {
+      "content": "The term \"Cogito ergo sum\" is associated with which philosopher in what period of philosophy?",
+      "type": "OBJ",
+      "options": [
+        "Rene Descartes, modern period",
+        "John Locke, modern period",
+        "Immanuel Kant, modern period",
+        "Rene Descartes, medieval period",
+        "Francis Mininah, contemporary period"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rene Descartes, modern period"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cogito Ergo Sum Explained</h4>\n <p>The correct answer is <strong>Rene Descartes, modern period</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What Does It Mean?</strong><br>\n \"Cogito ergo sum\" is Latin for \"I think, therefore I am.\" This is the foundational statement of <strong>René Descartes</strong>' epistemology in his <em>Discourse on the Method</em> (1637) and <em>Meditations on First Philosophy</em> (1641).<br><br>\n <strong style='color: var(--strongColor);'>Why It Matters</strong><br>\n Descartes was seeking a certain foundation for knowledge. He doubted everything that could possibly be doubted, including his senses and even mathematical truths. However, he realized that the very act of doubting proves his existence as a thinking being. The doubter must exist to doubt. This became the starting point for his philosophy.<br><br>\n Descartes is a central figure of the <strong>Modern period</strong> (17th-19th centuries), often called the \"Father of Modern Philosophy.\"</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "History of Philosophy",
+      "Spinoza",
+      "Carnap"
+    ],
+    "Question": {
+      "content": "Baruch Spinoza and Rudolf Carnap belong to which periods in the history of philosophy?",
+      "type": "OBJ",
+      "options": [
+        "Ancient and medieval",
+        "Medieval and contemporary",
+        "Ancient and modern",
+        "Contemporary and modern",
+        "Modern and contemporary"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Modern and contemporary"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Two Philosophers, Two Periods</h4>\n <p>The correct answer is <strong>Modern and contemporary</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Baruch Spinoza (1632-1677)</strong><br>\n Spinoza was a Dutch philosopher of Jewish-Portuguese descent. He is a key figure in the <strong>Modern period</strong> of philosophy. His major work, <em>Ethics</em>, is a masterpiece of rationalist metaphysics and ethics, presenting a pantheistic view where God and Nature are identical.<br><br>\n <strong style='color: var(--strongColor);'>Rudolf Carnap (1891-1970)</strong><br>\n Carnap was a German philosopher who became a leading figure in the Vienna Circle and <strong>Logical Positivism</strong>. He is a central figure in <strong>Contemporary philosophy</strong> (20th century). Carnap argued that many philosophical problems are pseudo-problems arising from the misuse of language and that meaningful statements are either empirically verifiable or logical/mathematical tautologies.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Ancient Philosophy",
+      "Ethics",
+      "Sophists",
+      "Thrasymachus"
+    ],
+    "Question": {
+      "content": "The dictum \"Might is right, Justice is in the interest of the stronger\" is associated with _____",
+      "type": "OBJ",
+      "options": [
+        "Pythagoras",
+        "Thrasymachus",
+        "Protagoras",
+        "Plato",
+        "Aristotle"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Thrasymachus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Thrasymachus on Justice</h4>\n <p>The correct answer is <strong>Thrasymachus</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Who Was Thrasymachus?</strong><br>\n Thrasymachus was a Sophist from Chalcedon (5th century BCE). He is best known from his appearance in Book I of Plato's <em>Republic</em>, where he presents a cynical view of justice.<br><br>\n <strong style='color: var(--strongColor);'>His Argument</strong><br>\n When Socrates asks for a definition of justice, Thrasymachus famously replies: \"Justice is nothing other than the advantage of the stronger.\" He argues that rulers (the stronger) make laws to serve their own interests and call this \"justice.\" Those who obey these laws are just, but only because they are serving the interests of those in power. This is often summarized as \"Might makes right\"—the idea that those with power determine what is considered just, and there is no universal, objective standard of justice.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Aesthetics",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "Another name for Aesthetics as a branch of philosophy is _____",
+      "type": "OBJ",
+      "options": [
+        "Theory of knowledge",
+        "Theory of being",
+        "The beautiful",
+        "The science of reality",
+        "The science of utility"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The beautiful"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Aesthetics?</h4>\n <p>The correct answer is <strong>The beautiful</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition</strong><br>\n Aesthetics is the branch of philosophy that studies beauty, art, and taste. The term comes from the Greek <em>aisthēsis</em>, meaning \"perception\" or \"sensation.\"<br><br>\n <strong style='color: var(--strongColor);'>Key Questions in Aesthetics</strong><br>\n - What is beauty? Is it objective or subjective?<br>\n - What is art? What distinguishes art from non-art?<br>\n - What is the role of emotion and judgment in aesthetic experience?<br><br>\n The phrase \"the beautiful\" is a traditional way to refer to this field, as beauty has historically been its central concern. The other options refer to other branches: Theory of knowledge = Epistemology; Theory of being = Metaphysics; Science of utility = Pragmatism or Ethics.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Epistemology",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "The theory of knowledge is the alternative name for _____",
+      "type": "OBJ",
+      "options": [
+        "aesthetics",
+        "epistemology",
+        "logic",
+        "metaphysics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "epistemology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Epistemology</h4>\n <p>The correct answer is <strong>epistemology</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Epistemology?</strong><br>\n Epistemology is the branch of philosophy concerned with the theory of knowledge. The word comes from the Greek <em>epistēmē</em> (knowledge) and <em>logos</em> (study or account).<br><br>\n <strong style='color: var(--strongColor);'>Key Questions Epistemology Asks</strong><br>\n - What is knowledge? How is it different from mere belief or opinion?<br>\n - What are the sources of knowledge? (Sensation, reason, intuition, testimony?)<br>\n - What is truth? (Correspondence, coherence, pragmatic theories?)<br>\n - What are the limits of knowledge? What can we know? What can we not know?<br><br>\n The other options: Aesthetics studies beauty; Logic studies correct reasoning; Metaphysics studies the nature of reality.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Ancient Philosophy",
+      "Pythagoras",
+      "Mathematics"
+    ],
+    "Question": {
+      "content": "_____ philosophy was to show the quantitative basis of reality",
+      "type": "OBJ",
+      "options": [
+        "Thales",
+        "Pythagoras",
+        "Epicurus",
+        "Democritus",
+        "Socrates"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pythagoras"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pythagoras and Numbers</h4>\n <p>The correct answer is <strong>Pythagoras</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Quantitative Basis of Reality</strong><br>\n Pythagoras (c. 570-495 BCE) and his followers, the Pythagoreans, believed that reality is fundamentally mathematical. Their famous principle was \"All things are numbers.\"<br><br>\n <strong style='color: var(--strongColor);'>Why Numbers?</strong><br>\n They observed that numbers and numerical relationships (ratios, harmonies) governed music, astronomy, geometry, and even ethics. They believed that the order and structure of the cosmos (the \"kosmos\") could be understood through number. For example, they discovered that musical harmonies correspond to simple numerical ratios (e.g., octave = 2:1). This led them to conclude that the essence of reality is quantitative, not qualitative. In contrast, Thales focused on water as the fundamental substance, and Democritus focused on atoms.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Ethics",
+      "Moral Philosophy"
+    ],
+    "Question": {
+      "content": "One of the major reasons why a man should be moral is because of _____",
+      "type": "OBJ",
+      "options": [
+        "Natural equality of all",
+        "Peace and harmony in the society",
+        "Legal punishment",
+        "Reality of Hell fire",
+        "Man is a moral being"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Peace and harmony in the society"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Be Moral?</h4>\n <p>The correct answer is <strong>Peace and harmony in the society</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Core Ethical Question</strong><br>\n Philosophers have proposed various reasons why individuals should act morally. Among the most influential is the <strong>social contract tradition</strong> (Hobbes, Locke, Rousseau).<br><br>\n <strong style='color: var(--strongColor);'>The Social Contract Argument</strong><br>\n Without moral rules, life would be a \"war of all against all\" (Hobbes), making life \"nasty, brutish, and short.\" Individuals rationally agree to follow moral rules and laws because doing so creates social stability, peace, and harmony, which benefits everyone. Morality is seen as a practical necessity for collective survival and flourishing.<br><br>\n While other reasons (e.g., natural equality, fear of punishment, divine reward) can motivate moral behavior, the pursuit of societal peace and harmony is a foundational philosophical justification that does not rely on specific religious or cultural assumptions.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Pragmatism",
+      "Contemporary Philosophy",
+      "Truth"
+    ],
+    "Question": {
+      "content": "One consequence of pragmatism as a philosophical movement in the contemporary period is ___",
+      "type": "OBJ",
+      "options": [
+        "It leads to objectivity",
+        "It relativizes truth",
+        "It produces good man",
+        "It helps us to live harmoniously",
+        "Conclusion gives rise to premises"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It relativizes truth"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pragmatism and Truth</h4>\n <p>The correct answer is <strong>It relativizes truth</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Pragmatism?</strong><br>\n Pragmatism is a philosophical movement originating in the late 19th century (Peirce, James, Dewey). It holds that the meaning and truth of an idea are determined by its practical consequences and usefulness.<br><br>\n <strong style='color: var(--strongColor);'>Relativizing Truth</strong><br>\n One consequence of pragmatism is that truth becomes relative to what works or what is useful in a given situation. According to William James, a belief is \"true\" if it leads to successful action and satisfies our needs. This challenges the traditional view of truth as a static correspondence to objective, mind-independent reality. Critics argue this makes truth subjective and relative. \"It relativizes truth\" captures this key consequence of pragmatism, even though pragmatists themselves might argue they are redefining truth, not eliminating it.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Ancient Philosophy",
+      "Anaximander",
+      "Metaphysics"
+    ],
+    "Question": {
+      "content": "Who among the philosophers developed the \"theology of permanence and the indeterminate boundless\"?",
+      "type": "OBJ",
+      "options": [
+        "Anaximander and Heraclites",
+        "Anaximenes and Democritus",
+        "Thales and Parmenides",
+        "None of these",
+        "Protagoras and Anaximander"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of these"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Indeterminate Boundless (Apeiron)</h4>\n <p>The correct answer is <strong>None of these</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Anaximander's Concept</strong><br>\n The concept of the \"indeterminate boundless\" (the <em>apeiron</em>) was developed by <strong>Anaximander</strong> (c. 610-546 BCE), a student of Thales. He argued that the fundamental substance (arche) of reality is not water or any other specific element, but an infinite, indefinite, and eternal principle from which all things come and to which they return.<br><br>\n <strong style='color: var(--strongColor);'>Why \"None of these\"?</strong><br>\n While Anaximander is the correct philosopher for the \"indeterminate boundless,\" the pairing in option (a) is \"Anaximander and Heraclites.\" However, Heraclitus did not develop this concept. No other option correctly pairs Anaximander with an appropriate second philosopher for the \"theology of permanence\" part. Parmenides developed the philosophy of permanence, but he is not paired correctly in any option. Since the question asks for \"who among the philosophers developed the theology of permanence AND the indeterminate boundless,\" and no option correctly identifies the philosopher(s) for both concepts together, \"None of these\" is the correct choice.<br><br>\n <em>Note: \"Theology of permanence\" refers to Parmenides' philosophy of unchanging Being.</em>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Ethics",
+      "Utilitarianism",
+      "Jeremy Bentham"
+    ],
+    "Question": {
+      "content": "The rightness or wrongness of an action can be determined by the quantity of happiness or pain the action produce is associated with:",
+      "type": "OBJ",
+      "options": [
+        "Kantianism",
+        "Utilitarianism",
+        "Situationism",
+        "Formalism",
+        "Intuitionism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Utilitarianism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Principle of Utility</h4>\n <p>The correct answer is <strong>Utilitarianism</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Utilitarianism?</strong><br>\n Utilitarianism is an ethical theory developed by Jeremy Bentham and John Stuart Mill. Its core principle is the <strong>principle of utility</strong>: actions are right if they promote happiness (pleasure) and wrong if they produce the opposite of happiness (pain).<br><br>\n <strong style='color: var(--strongColor);'>The Hedonic Calculus</strong><br>\n Bentham proposed a \"hedonic calculus\" to measure the quantity of pleasure and pain an action would produce, considering factors like intensity, duration, certainty, and extent. The right action is the one that maximizes overall happiness for the greatest number of people. This directly corresponds to the description in the question.<br><br>\n The other options: Kantianism focuses on duty and universal rules, not consequences; Formalism is similar to Kantian ethics; Intuitionism holds that moral truths are self-evident; Situationism emphasizes context over fixed rules.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Epistemology",
+      "Kant",
+      "Phenomena"
+    ],
+    "Question": {
+      "content": "According to Kant, objective scientific knowledge is achievable if we limit ourselves to the realm of _____",
+      "type": "OBJ",
+      "options": [
+        "Phenomena",
+        "Phenomena Ideal",
+        "Abstract Reason",
+        "Metaphysics",
+        "Logic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phenomena"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Kant's Distinction: Phenomena vs. Noumena</h4>\n <p>The correct answer is <strong>Phenomena</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Immanuel Kant's Copernican Revolution</strong><br>\n Kant (1724-1804) made a crucial distinction between:\n <ul>\n <li><strong>Phenomena:</strong> The world as it appears to us, structured by our innate forms of intuition (space and time) and categories of understanding (causality, substance, etc.). This is the realm of possible experience and where scientific knowledge is possible.</li>\n <li><strong>Noumena (Things-in-themselves):</strong> The world as it exists independently of our perception. Kant argued that we cannot have knowledge of noumena because our knowledge is always shaped by our perceptual and cognitive apparatus.</li>\n </ul>\n <p>By limiting knowledge to <strong>phenomena</strong>, Kant believed we can have objective, universal, and necessary scientific knowledge (like Newtonian physics). However, when we try to go beyond phenomena into metaphysical speculation about God, freedom, or the soul (noumena), we fall into antinomies (contradictions) and cannot achieve certain knowledge.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Sophists",
+      "Ancient Philosophy",
+      "Ethics"
+    ],
+    "Question": {
+      "content": "The problem that was foremost in the minds of the sophists was ____",
+      "type": "OBJ",
+      "options": [
+        "The problem of permanence and change",
+        "The problem of appearance and reality",
+        "Origin of the world",
+        "The characteristics of the world",
+        "Moral questions about man and society"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Moral questions about man and society"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Sophists' Focus</h4>\n <p>The correct answer is <strong>Moral questions about man and society</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Shift in Philosophical Focus</strong><br>\n The Sophists were traveling teachers in 5th century BCE Greece who represented a significant shift in philosophical inquiry. Unlike the Pre-Socratic philosophers who focused on cosmology (the nature of the universe, permanence and change, the origin of the world), the Sophists turned their attention to <strong>human affairs</strong>.<br><br>\n <strong style='color: var(--strongColor);'>Their Central Concerns</strong><br>\n They were primarily interested in:\n <ul>\n <li><strong>Ethics:</strong> What is justice? What is virtue? Can virtue be taught?</li>\n <li><strong>Politics:</strong> What is the best form of government? What is the relationship between law and nature?</li>\n <li><strong>Rhetoric and Persuasion:</strong> How can one succeed in public life through effective argument?</li>\n <li><strong>Relativism:</strong> They questioned whether there are absolute moral truths or whether morality is relative to culture and individual perspective.</li>\n </ul>\n <p>Protagoras famously stated, \"Man is the measure of all things,\" reflecting this anthropocentric turn. Socrates and Plato later engaged critically with Sophistic ideas, but the Sophists pioneered the focus on moral and social questions.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Ancient Philosophy",
+      "Aristotle",
+      "Plato"
+    ],
+    "Question": {
+      "content": "Which of the following philosophers is the immediate predecessor of Aristotle",
+      "type": "OBJ",
+      "options": [
+        "Socrates",
+        "Anaximander",
+        "Sophists",
+        "St. Augustine",
+        "Plato"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plato"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Teacher-Student Lineage</h4>\n <p>The correct answer is <strong>Plato</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Great Chain of Ancient Philosophy</strong><br>\n There is a famous philosophical lineage in ancient Greece:\n <ul>\n <li><strong>Socrates (c. 470-399 BCE):</strong> The foundational figure who focused on ethics and the Socratic method. He taught Plato.</li>\n <li><strong>Plato (c. 428-348 BCE):</strong> Socrates' student. He founded the Academy in Athens and developed the Theory of Forms. He taught Aristotle.</li>\n <li><strong>Aristotle (384-322 BCE):</strong> Plato's student. He studied at the Academy for about 20 years before founding his own school, the Lyceum.</li>\n </ul>\n <p>Aristotle is therefore the <strong>immediate successor</strong> to Plato. While Socrates influenced Plato, Aristotle did not study directly under Socrates. St. Augustine came much later (4th-5th century CE). Anaximander was a Pre-Socratic. The Sophists were contemporaries of Socrates but not Aristotle's direct predecessors.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "History of Philosophy",
+      "Pre-Socratics",
+      "Miletus"
+    ],
+    "Question": {
+      "content": "Philosophy is believed to have started in the city of ____",
+      "type": "OBJ",
+      "options": [
+        "Crete in Greece",
+        "Alexandria in Rome",
+        "Crete in Egypt",
+        "Miletus in Africa",
+        "Miletus in Greece"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Miletus in Greece"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Birthplace of Western Philosophy</h4>\n <p>The correct answer is <strong>Miletus in Greece</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Milesian School</strong><br>\n Western philosophy is traditionally believed to have begun in the 6th century BCE in the city of <strong>Miletus</strong>, an ancient Greek city located on the western coast of Anatolia (modern-day Turkey). At that time, this region was part of the Greek cultural world (Ionia).<br><br>\n <strong style='color: var(--strongColor);'>The First Philosophers</strong><br>\n The Milesian School consisted of three main philosophers:\n <ul>\n <li><strong>Thales (c. 624-546 BCE):</strong> Often called the \"first philosopher.\" He proposed that water is the fundamental substance (arche) of all things.</li>\n <li><strong>Anaximander (c. 610-546 BCE):</strong> Student of Thales who proposed the <em>apeiron</em> (the indeterminate boundless) as the arche.</li>\n <li><strong>Anaximenes (c. 586-526 BCE):</strong> Student of Anaximander who proposed air as the fundamental substance.</li>\n </ul>\n <p>These thinkers were the first to attempt to explain the natural world through reason and observation rather than through mythology, marking the birth of philosophy and science.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Pre-Socratics",
+      "Greek Philosophy",
+      "Mythology"
+    ],
+    "Question": {
+      "content": "Prior to the philosophical reflections of the Presocratics the classical Greek mind had their source in the ____",
+      "type": "OBJ",
+      "options": [
+        "Politics",
+        "Society",
+        "Myths",
+        "Socrates"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Myths"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>From Mythos to Logos</h4>\n <p>The correct answer is <strong>Myths</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Mythological Worldview</strong><br>\n Before the emergence of philosophy in 6th century BCE Greece, the Greek worldview was shaped by <strong>mythology</strong>—stories about gods, heroes, and the origins of the world as told by poets like Homer and Hesiod.<br><br>\n <strong style='color: var(--strongColor);'>Key Features of Mythological Thinking</strong><br>\n <ul>\n <li>Explanations were given in terms of personal gods (Zeus, Poseidon, Apollo) with human-like motivations.</li>\n <li>Natural phenomena (thunder, earthquakes, seasons) were explained as actions of divine beings.</li>\n <li>Knowledge was transmitted through oral tradition, poetry, and religious practices.</li>\n </ul>\n <p>The Pre-Socratic philosophers initiated a shift from <strong>mythos</strong> (mythical explanation) to <strong>logos</strong> (rational, reasoned explanation). They sought natural explanations for natural phenomena, marking the birth of philosophy and science. This transition is one of the most significant developments in Western intellectual history.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Epistemology",
+      "Kant",
+      "Phenomena"
+    ],
+    "Question": {
+      "content": "Phenomenic reality can be viewed as an objective knowledge because our mental categories are universal, necessary conditions of knowledge is associated with ____",
+      "type": "OBJ",
+      "options": [
+        "David Hume",
+        "Ludwig Wittgenstein",
+        "Immanuel Kant",
+        "John Hobbes",
+        "Descartes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Immanuel Kant"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Kant's Theory of Knowledge</h4>\n <p>The correct answer is <strong>Immanuel Kant</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Kant's Copernican Revolution</strong><br>\n Immanuel Kant (1724-1804) argued that our knowledge of the world is possible because our minds actively structure experience using <strong>universal and necessary categories</strong>.<br><br>\n <strong style='color: var(--strongColor);'>Key Concepts</strong><br>\n <ul>\n <li><strong>Phenomena:</strong> The world as it appears to us, structured by our cognitive faculties.</li>\n <li><strong>Categories of Understanding:</strong> Kant identified 12 fundamental categories (including causality, substance, unity, etc.) that are built into the human mind. These are <strong>universal</strong> (shared by all humans) and <strong>necessary</strong> (we cannot think without them).</li>\n <li><strong>Forms of Intuition:</strong> Space and time are the universal, necessary frameworks through which we perceive reality.</li>\n </ul>\n <p>Because these mental structures are universal and necessary, the knowledge we derive from phenomena is <strong>objective</strong>—it applies to all knowing subjects. This is how Kant reconciled empiricism (knowledge from experience) with rationalism (knowledge from reason) and provided a foundation for objective scientific knowledge.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Logical Positivism",
+      "Vienna Circle",
+      "Contemporary Philosophy"
+    ],
+    "Question": {
+      "content": "The philosophical movement that tried to make philosophy scientific in the early 20th century was ____",
+      "type": "OBJ",
+      "options": [
+        "Rationalism",
+        "Empiricism",
+        "Vienna circle",
+        "Idealism",
+        "Logical Positivism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Logical Positivism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Quest for a Scientific Philosophy</h4>\n <p>The correct answer is <strong>Logical Positivism</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Vienna Circle</strong><br>\n <strong>Logical Positivism</strong> (also called logical empiricism) was a philosophical movement that emerged in the 1920s and 1930s, centered around the <strong>Vienna Circle</strong>, a group of philosophers, scientists, and mathematicians including Moritz Schlick, Rudolf Carnap, Otto Neurath, and others.<br><br>\n <strong style='color: var(--strongColor);'>Their Central Goal</strong><br>\n The movement aimed to make philosophy <strong>scientific</strong> by:\n <ul>\n <li>Rejecting metaphysics as meaningless</li>\n <li>Adopting the <strong>verification principle</strong>: a statement is meaningful only if it is empirically verifiable or analytically true (tautologies of logic and mathematics)</li>\n <li>Using modern logic to clarify language and solve philosophical problems</li>\n <li>Unifying the sciences through a common language</li>\n </ul>\n <p>While \"Vienna Circle\" refers to the group itself, <strong>Logical Positivism</strong> is the name of the philosophical movement they founded. This movement had enormous influence on 20th-century philosophy, particularly in the analytic tradition.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Logic",
+      "Arguments",
+      "Soundness"
+    ],
+    "Question": {
+      "content": "If an argument is sound, then ____",
+      "type": "OBJ",
+      "options": [
+        "It cannot be valid",
+        "All its statements must be false",
+        "Mike is a tree cannot be part of it",
+        "Its conclusion must logically entail the premises",
+        "The argument must be sound"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The argument must be sound"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Soundness in Logic</h4>\n <p>The correct answer is <strong>The argument must be sound</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition of a Sound Argument</strong><br>\n In formal logic, an argument is <strong>sound</strong> if and only if it meets two conditions:\n <ol>\n <li>It is <strong>valid</strong> (the conclusion logically follows from the premises)</li>\n <li>All of its <strong>premises are true</strong></li>\n </ol>\n <p>If an argument is sound, its conclusion must be true.</p>\n <strong style='color: var(--strongColor);'>Analyzing the Options</strong><br>\n <ul>\n <li>❌ \"It cannot be valid\": This is false. A sound argument <strong>must</strong> be valid.</li>\n <li>❌ \"All its statements must be false\": This is false. In a sound argument, all premises are true.</li>\n <li>❌ \"Mike is a tree cannot be part of it\": This is a nonsensical option.</li>\n <li>❌ \"Its conclusion must logically entail the premises\": This is backwards. In a valid argument, the premises entail the conclusion, not vice versa.</li>\n <li>✅ \"The argument must be sound\": This is a tautology—by definition, if an argument is sound, then it is sound. While trivial, it is the only logically correct statement among the options.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": [
+      "Epistemology",
+      "Empiricism",
+      "Philosophy of Knowledge"
+    ],
+    "Question": {
+      "content": "Which school of thought holds perceptual experience as the primary source of our knowledge of the world?",
+      "type": "OBJ",
+      "options": [
+        "Empiricism",
+        "Materialism",
+        "Pragmatism",
+        "Idealism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Empiricism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Empiricism Explained</h4>\n <p>The correct answer is <strong>Empiricism</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Empiricism?</strong><br>\n Empiricism is a philosophical school that holds that <strong>sense experience</strong> (perception, observation) is the primary source of all knowledge. The mind is not born with innate ideas; rather, knowledge comes from what we see, hear, touch, taste, and smell.<br><br>\n <strong style='color: var(--strongColor);'>Key Empiricist Thinkers</strong><br>\n <ul>\n <li><strong>John Locke (1632-1704):</strong> Argued the mind is a <em>tabula rasa</em> (blank slate) at birth, and all ideas come from sensation and reflection.</li>\n <li><strong>George Berkeley (1685-1753):</strong> Radicalized empiricism with \"esse est percipi\" (to be is to be perceived).</li>\n <li><strong>David Hume (1711-1776):</strong> Developed empiricism to its logical conclusion, arguing that all knowledge comes from impressions and ideas derived from impressions.</li>\n </ul>\n <strong style='color: var(--strongColor);'>How Empiricism Differs from Other Schools</strong><br>\n <ul>\n <li><strong>Rationalism:</strong> Emphasizes reason and innate ideas (Descartes, Spinoza, Leibniz)</li>\n <li><strong>Idealism:</strong> Emphasizes mind or spirit as fundamental; reality is mental</li>\n <li><strong>Materialism:</strong> Emphasizes matter as fundamental; not primarily about the source of knowledge</li>\n <li><strong>Pragmatism:</strong> Emphasizes practical consequences as the test of truth</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": [
+      "Existentialism",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "Choose the odd one among these options",
+      "type": "OBJ",
+      "options": [
+        "Soren Kierkegaard",
+        "Martin Heidegger",
+        "Jean Paul Sartre",
+        "Frederick Nietzsche",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Odd One</h4>\n <p>The correct answer is <strong>None of the above</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why They Are All Connected</strong><br>\n All four philosophers listed are major figures associated with <strong>Existentialism</strong> or proto-Existentialism:\n <ul>\n <li><strong>Søren Kierkegaard (1813-1855):</strong> Danish philosopher, often called the \"father of existentialism.\" Focused on individual existence, faith, and subjective truth.</li>\n <li><strong>Friedrich Nietzsche (1844-1900):</strong> German philosopher whose ideas about the will to power, the death of God, and self-overcoming profoundly influenced existentialism.</li>\n <li><strong>Martin Heidegger (1889-1976):</strong> German philosopher whose work <em>Being and Time</em> is a foundational existential text exploring human existence (<em>Dasein</em>).</li>\n <li><strong>Jean-Paul Sartre (1905-1980):</strong> French philosopher who explicitly identified as an existentialist and coined the phrase \"existence precedes essence.\"</li>\n </ul>\n <p>Since all four are existentialist thinkers, there is no odd one among them. Therefore, <strong>None of the above</strong> is the correct choice.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": [
+      "Philosophy of Science",
+      "Methodology"
+    ],
+    "Question": {
+      "content": "Choose the odd one among these options",
+      "type": "OBJ",
+      "options": [
+        "Speculative",
+        "Critical",
+        "Experimental",
+        "Analytical",
+        "Logical"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Experimental"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Odd One</h4>\n <p>The correct answer is <strong>Experimental</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Categories of Philosophical Approaches</strong><br>\n <ul>\n <li><strong>Speculative:</strong> Philosophical approach that uses abstract reasoning to construct theories about reality, often without relying on empirical evidence.</li>\n <li><strong>Critical:</strong> Philosophical approach that examines assumptions, limits, and foundations of knowledge (e.g., Kant's critical philosophy).</li>\n <li><strong>Analytical:</strong> Philosophical approach that focuses on clarifying concepts and analyzing language and logic.</li>\n <li><strong>Logical:</strong> Philosophical approach that emphasizes formal logic and reasoning.</li>\n </ul>\n <p><strong>Experimental</strong> is the odd one because it refers to a method primarily associated with the natural sciences, not a distinct philosophical approach. While experimental philosophy (<em>x-phi</em>) exists in contemporary philosophy, it is a relatively recent development. In traditional classifications, \"experimental\" is not considered a core philosophical method like the others.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": [
+      "History of Philosophy",
+      "Philosophical Movements"
+    ],
+    "Question": {
+      "content": "Choose the odd one among these options",
+      "type": "OBJ",
+      "options": [
+        "Existentialism and logical positivism",
+        "Practical positivism and Analytic Philosophy",
+        "Rationalism and Empiricism",
+        "Analytic philosophy and Existentialism",
+        "Pragmatism and Analytic philosophy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rationalism and Empiricism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Odd One</h4>\n <p>The correct answer is <strong>Rationalism and Empiricism</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Categorizing Philosophical Pairs</strong><br>\n Most options pair two philosophical movements that emerged in different historical periods:\n <ul>\n <li><strong>Existentialism and logical positivism:</strong> Both are 20th-century movements, though they are very different.</li>\n <li><strong>Practical positivism and Analytic Philosophy:</strong> Both are modern/contemporary movements.</li>\n <li><strong>Analytic philosophy and Existentialism:</strong> Both are 20th-century movements, representing the two main traditions (Anglo-American analytic vs. Continental).</li>\n <li><strong>Pragmatism and Analytic philosophy:</strong> Both are modern/contemporary movements that emerged in the late 19th/early 20th century.</li>\n </ul>\n <p><strong>Rationalism and Empiricism</strong> is the odd one because it represents the major debate of the <strong>Modern period</strong> (17th-18th centuries), not the contemporary period. While the other pairs involve movements from the 19th-20th centuries, Rationalism and Empiricism belong to an earlier era of philosophy.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": [
+      "Metaphysics",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "Choose the odd one among these options",
+      "type": "OBJ",
+      "options": [
+        "Why something instead of nothing?",
+        "Is there any difference between spiritual or material?",
+        "Does God exist?",
+        "Is reality essentially spiritual or material?",
+        "What is the relationship between mind matter?"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Is there any difference between spiritual or material?"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Odd One</h4>\n <p>The correct answer is <strong>Is there any difference between spiritual or material?</strong></p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Analyzing the Questions</strong><br>\n All the options are metaphysical questions, but they differ in their structure and assumptions:\n <ul>\n <li><strong>\"Why something instead of nothing?\"</strong> – Asks about the reason for existence itself; a foundational metaphysical question about being.</li>\n <li><strong>\"Does God exist?\"</strong> – Asks about the existence of a supreme being; a central question in philosophy of religion.</li>\n <li><strong>\"Is reality essentially spiritual or material?\"</strong> – Asks about the fundamental nature of reality; a core metaphysical question (idealism vs. materialism).</li>\n <li><strong>\"What is the relationship between mind and matter?\"</strong> – Asks about the mind-body problem; a central metaphysical/epistemological question.</li>\n </ul>\n <p><strong>\"Is there any difference between spiritual or material?\"</strong> is the odd one because it questions whether a distinction even exists, while the others assume such distinctions and ask substantive questions about reality. Additionally, it is phrased as a skeptical meta-question rather than a direct metaphysical inquiry like the others.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": [
+      "Ancient Philosophy",
+      "Sophists"
+    ],
+    "Question": {
+      "content": "Choose the odd one among these options",
+      "type": "OBJ",
+      "options": [
+        "Sophists",
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Protagoras"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Protagoras"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Odd One</h4>\n <p>The correct answer is <strong>Protagoras</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Categorizing Philosophers</strong><br>\n Let's analyze each option:\n <ul>\n <li><strong>Socrates (c. 470-399 BCE):</strong> Classical Greek philosopher, teacher of Plato.</li>\n <li><strong>Plato (c. 428-348 BCE):</strong> Student of Socrates, teacher of Aristotle, founded the Academy.</li>\n <li><strong>Aristotle (384-322 BCE):</strong> Student of Plato, founded the Lyceum.</li>\n <li><strong>Sophists:</strong> A group of traveling teachers in 5th century BCE, including Protagoras, Gorgias, and Thrasymachus.</li>\n <li><strong>Protagoras (c. 490-420 BCE):</strong> A specific individual who was one of the most famous Sophists.</li>\n </ul>\n <p>The pattern is that Socrates, Plato, and Aristotle represent the main classical Greek philosophers who sought objective truth. \"Sophists\" is a category or school. <strong>Protagoras</strong> is the odd one because he is a <strong>specific individual</strong> listed among categories, and his philosophy (relativism) contrasts sharply with Socrates, Plato, and Aristotle. Alternatively, one could argue Protagoras is odd because he is included within \"Sophists\" as a subset.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": [
+      "Scientific Revolution",
+      "History of Science",
+      "Philosophy"
+    ],
+    "Question": {
+      "content": "Choose the odd one among these options",
+      "type": "OBJ",
+      "options": [
+        "Nicholas Copernicus",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Rene Descartes",
+        "Francis Bacon"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rene Descartes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Odd One</h4>\n <p>The correct answer is <strong>Rene Descartes</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Scientists vs. Philosopher</strong><br>\n <ul>\n <li><strong>Nicholas Copernicus (1473-1543):</strong> Astronomer who proposed the heliocentric model. Primarily a scientist.</li>\n <li><strong>Galileo Galilei (1564-1642):</strong> Astronomer and physicist who made telescopic discoveries and advanced experimental science. Primarily a scientist.</li>\n <li><strong>Isaac Newton (1643-1727):</strong> Physicist and mathematician who formulated the laws of motion and universal gravitation. Primarily a scientist.</li>\n <li><strong>Francis Bacon (1561-1626):</strong> Philosopher and statesman who championed the scientific method (inductive reasoning). He was a philosopher of science, though he also contributed to scientific thought.</li>\n <li><strong>René Descartes (1596-1650):</strong> Philosopher and mathematician. While he contributed to mathematics (Cartesian coordinates) and physics, his primary identity is as a <strong>philosopher</strong> (\"I think, therefore I am\").</li>\n </ul>\n <p>Copernicus, Galileo, and Newton are primarily known as <strong>scientists/astronomers/physicists</strong>. Bacon and Descartes are primarily known as <strong>philosophers</strong>. Among the two philosophers, Bacon is more directly associated with the experimental scientific method, while Descartes is known for rationalist philosophy. In some contexts, Descartes is considered the odd one because he is not primarily known for empirical experimentation like the others.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": [
+      "Philosophical Movements",
+      "History of Philosophy"
+    ],
+    "Question": {
+      "content": "Choose the odd one among these options",
+      "type": "OBJ",
+      "options": [
+        "Rudolf Carnap and Otto Neural",
+        "A. J. Ayer and Moritz Schlick",
+        "Frederick Nietzsche and Soren Kierkegaard",
+        "Locke and William James",
+        "Jean Paul Sartre and Martin Heidegger"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Locke and William James"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Odd One</h4>\n <p>The correct answer is <strong>Locke and William James</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Grouping Philosophers by Movement</strong><br>\n <ul>\n <li><strong>Rudolf Carnap and Otto Neurath:</strong> Both were members of the <strong>Vienna Circle</strong>, founders of <strong>Logical Positivism</strong>.</li>\n <li><strong>A. J. Ayer and Moritz Schlick:</strong> Both were <strong>Logical Positivists</strong>. Ayer was a British proponent; Schlick was the leader of the Vienna Circle.</li>\n <li><strong>Frederick Nietzsche and Soren Kierkegaard:</strong> Both are <strong>Existentialist</strong> (or proto-existentialist) thinkers.</li>\n <li><strong>Jean Paul Sartre and Martin Heidegger:</strong> Both are <strong>Existentialist</strong> (or phenomenologist/existentialist) thinkers.</li>\n <li><strong>Locke and William James:</strong> <strong>John Locke (1632-1704)</strong> was an <strong>Empiricist</strong> of the Modern period. <strong>William James (1842-1910)</strong> was an American <strong>Pragmatist</strong>. They belong to different philosophical movements and different historical periods.</li>\n </ul>\n <p>Locke and James are the odd pair because they do not share a common philosophical movement or historical era, unlike the other pairs which are clearly grouped by movement (Logical Positivism or Existentialism).</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": [
+      "Philosophical Movements",
+      "History of Philosophy"
+    ],
+    "Question": {
+      "content": "Choose the odd one among these options",
+      "type": "OBJ",
+      "options": [
+        "Bertrand Russell",
+        "Soren Kierkegaard",
+        "Moritz Schlick",
+        "George Berkley",
+        "Charles Sanders Peirce"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "George Berkley"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Odd One</h4>\n <p>The correct answer is <strong>George Berkley</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Categorizing by Historical Period</strong><br>\n <ul>\n <li><strong>Bertrand Russell (1872-1970):</strong> 20th-century British philosopher, key figure in <strong>Analytic Philosophy</strong> and <strong>Logical Positivism</strong>.</li>\n <li><strong>Soren Kierkegaard (1813-1855):</strong> 19th-century Danish philosopher, often called the father of <strong>Existentialism</strong>.</li>\n <li><strong>Moritz Schlick (1882-1936):</strong> German philosopher, leader of the <strong>Vienna Circle</strong> and <strong>Logical Positivism</strong>.</li>\n <li><strong>Charles Sanders Peirce (1839-1914):</strong> American philosopher, founder of <strong>Pragmatism</strong>.</li>\n <li><strong>George Berkeley (1685-1753):</strong> 18th-century Irish philosopher, an <strong>Empiricist</strong> of the <strong>Modern period</strong>.</li>\n </ul>\n <p><strong>George Berkeley</strong> is the odd one because he belongs to an earlier historical period (Modern philosophy, 17th-18th century) while all the others are 19th-20th century philosophers. Berkeley represents classical empiricism, while the others represent more contemporary movements: Analytic Philosophy, Existentialism, Logical Positivism, and Pragmatism.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": [
+      "Logic",
+      "Philosophy of Language"
+    ],
+    "Question": {
+      "content": "Which type of sentences is the logician's object of analysis?",
+      "type": "OBJ",
+      "options": [
+        "Statement",
+        "Imperative",
+        "Directive",
+        "Argumentative"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Statement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Logician's Object of Analysis</h4>\n <p>The correct answer is <strong>Statement</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Types of Sentences in Logic</strong><br>\n Logicians analyze sentences that can be true or false. This category is called <strong>statements</strong> (also called propositions or declarative sentences).<br><br>\n <strong style='color: var(--strongColor);'>Analyzing Each Option</strong><br>\n <ul>\n <li><strong>Statement (Declarative):</strong> Makes an assertion that can be evaluated as true or false. <em>Example: \"The sky is blue.\"</em> ✅ This is the logician's primary object of analysis.</li>\n <li><strong>Imperative:</strong> Gives a command. <em>Example: \"Close the door.\"</em> Cannot be true or false. ❌</li>\n <li><strong>Directive:</strong> Gives directions or instructions. <em>Example: \"Turn left at the corner.\"</em> Cannot be true or false. ❌</li>\n <li><strong>Argumentative:</strong> Refers to a type of discourse, not a sentence type. Arguments consist of statements (premises and conclusion). The building blocks are statements. ❌</li>\n </ul>\n <p>Logic is concerned with truth, validity, and inference. Only statements (declarative sentences) have truth values (true or false), making them the fundamental unit of logical analysis.</p>\n </div>\n</div>"
+    }
+  }
+]
